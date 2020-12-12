@@ -1,0 +1,6954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>rock falls fibernet existing.kmz</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="plan-736">
+		<name>Rock Falls</name>
+		<open>1</open>
+		<Folder class="type-2">
+			<name>Others</name>
+			<open>1</open>
+			<Folder class="layer-40">
+				<name>Duct</name>
+				<open>1</open>
+				<Placemark>
+					<name>DU-0098990</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 523.61
+Attr ID: DU-0098990
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2429f86e-c6a6-42a2-ba3c-c59bd38981c0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098990</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 523.61
+Attr ID: DU-0098990
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2429f86e-c6a6-42a2-ba3c-c59bd38981c0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69734800000001,41.714625,0 -89.697168,41.714439,0 -89.697152,41.713309,0 -89.697123,41.713235,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099020</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 184.4
+Attr ID: DU-0099020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8cbc403b-ab53-4c00-b292-c4517907a85f</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099020</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 184.4
+Attr ID: DU-0099020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8cbc403b-ab53-4c00-b292-c4517907a85f</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697123,41.713235,0 -89.696465,41.713121,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099040</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 79.21
+Attr ID: DU-0099040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3ca7e61c-0e61-42d0-942c-29a4f66a949b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099040</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 79.21
+Attr ID: DU-0099040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3ca7e61c-0e61-42d0-942c-29a4f66a949b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.695401,41.713092,0 -89.69564200000001,41.713213,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098900</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 801.66
+Attr ID: DU-0098900
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d7699b26-726b-4ac3-b19a-047148f7f1e7</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098900</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 801.66
+Attr ID: DU-0098900
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d7699b26-726b-4ac3-b19a-047148f7f1e7</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689947,41.710602,0 -89.69011999999999,41.710674,0 -89.690403,41.71075,0 -89.69089,41.710686,0 -89.69113299999999,41.710627,0 -89.691245,41.710597,0 -89.691366,41.710452,0 -89.69155000000001,41.71038,0 -89.691807,41.710253,0 -89.692069,41.710102,0 -89.692556,41.710038,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098910</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 3871.52
+Attr ID: DU-0098910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: eea79ada-3250-488c-91e4-8367f4596784</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098910</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 3871.52
+Attr ID: DU-0098910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: eea79ada-3250-488c-91e4-8367f4596784</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689947,41.710602,0 -89.68989999999999,41.712206,0 -89.689898,41.713645,0 -89.689892,41.714258,0 -89.689921,41.714587,0 -89.69001299999999,41.714633,0 -89.692391,41.714632,0 -89.69331099999999,41.714641,0 -89.69423500000001,41.714637,0 -89.695139,41.714637,0 -89.696457,41.714629,0 -89.69734800000001,41.714625,0 -89.69866399999999,41.714636,0 -89.698683,41.714708,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098920</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 48.25
+Attr ID: DU-0098920
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 933989b7-5555-4e96-89a8-851419d0c019</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098920</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 48.25
+Attr ID: DU-0098920
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 933989b7-5555-4e96-89a8-851419d0c019</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689898,41.713645,0 -89.689725,41.713672,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098930</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 678.61
+Attr ID: DU-0098930
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 11debb00-eca9-4631-8643-88f2465ea6d2</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098930</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 678.61
+Attr ID: DU-0098930
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 11debb00-eca9-4631-8643-88f2465ea6d2</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68989999999999,41.712206,0 -89.688862,41.712182,0 -89.687946,41.712176,0 -89.687788,41.712194,0 -89.688107,41.712052,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098940</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 568.03
+Attr ID: DU-0098940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: fd02eb18-8f0c-4575-9808-cd6ad2d07d1e</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098940</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 568.03
+Attr ID: DU-0098940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: fd02eb18-8f0c-4575-9808-cd6ad2d07d1e</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688862,41.712182,0 -89.688879,41.711619,0 -89.688884,41.710689,0 -89.68879699999999,41.710681,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098950</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1145.26
+Attr ID: DU-0098950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 52ad6ddf-186e-4186-8244-d02524f594a6</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098950</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1145.26
+Attr ID: DU-0098950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 52ad6ddf-186e-4186-8244-d02524f594a6</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689892,41.714258,0 -89.689572,41.714178,0 -89.689047,41.714203,0 -89.687783,41.71421,0 -89.686587,41.714215,0 -89.685716,41.714226,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098960</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 25.6
+Attr ID: DU-0098960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 849ca3bb-1386-48de-8fa6-d33046af3e10</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098960</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 25.6
+Attr ID: DU-0098960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 849ca3bb-1386-48de-8fa6-d33046af3e10</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.686587,41.714215,0 -89.68657899999999,41.714285,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098970</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 25.2
+Attr ID: DU-0098970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 49f438bd-239e-4321-8e26-6c250844090c</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098970</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 25.2
+Attr ID: DU-0098970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 49f438bd-239e-4321-8e26-6c250844090c</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.687783,41.71421,0 -89.687789,41.714279,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0098980</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 24.13
+Attr ID: DU-0098980
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: c8c7611c-fbd0-4248-a892-a567e4b8e30f</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0098980</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 24.13
+Attr ID: DU-0098980
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: c8c7611c-fbd0-4248-a892-a567e4b8e30f</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689047,41.714203,0 -89.689054,41.714269,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099000</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1815.09
+Attr ID: DU-0099000
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7797cdc6-e8b7-4ceb-8dac-fc849553d61e</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099000</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1815.09
+Attr ID: DU-0099000
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7797cdc6-e8b7-4ceb-8dac-fc849553d61e</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697123,41.713235,0 -89.69734200000001,41.713122,0 -89.69799399999999,41.713217,0 -89.698414,41.712937,0 -89.69846800000001,41.712011,0 -89.698325,41.71203,0 -89.69831600000001,41.711828,0 -89.69821899999999,41.711708,0 -89.69815800000001,41.711543,0 -89.69786499999999,41.711656,0 -89.697028,41.711648,0 -89.696871,41.711547,0 -89.695562,41.711558,0 -89.695948,41.71165,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099010</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 391.36
+Attr ID: DU-0099010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 0bc73adb-8df0-4fd8-aa1f-0400ae8c30f1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099010</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 391.36
+Attr ID: DU-0099010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 0bc73adb-8df0-4fd8-aa1f-0400ae8c30f1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69815800000001,41.711543,0 -89.698289,41.711227,0 -89.698651,41.710801,0 -89.69839899999999,41.710656,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099030</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 752.87
+Attr ID: DU-0099030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8b9b0420-6ef3-4636-a23b-aa8dedfa3b1e</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099030</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 752.87
+Attr ID: DU-0099030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8b9b0420-6ef3-4636-a23b-aa8dedfa3b1e</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697123,41.713235,0 -89.69637400000001,41.713233,0 -89.69564200000001,41.713213,0 -89.695178,41.713181,0 -89.694824,41.713097,0 -89.69438700000001,41.713069,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099050</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 3146.09
+Attr ID: DU-0099050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d0ddebf6-162f-4316-9c5b-c3749142dbf9</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099050</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 3146.09
+Attr ID: DU-0099050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d0ddebf6-162f-4316-9c5b-c3749142dbf9</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69438700000001,41.713069,0 -89.69375599999999,41.713077,0 -89.69350900000001,41.713105,0 -89.693268,41.713129,0 -89.693096,41.712981,0 -89.69314900000001,41.712662,0 -89.693161,41.712216,0 -89.69329500000001,41.711956,0 -89.693397,41.711861,0 -89.69425,41.711243,0 -89.69477000000001,41.710839,0 -89.694845,41.710374,0 -89.69475799999999,41.70995,0 -89.6947,41.709665,0 -89.69494,41.709204,0 -89.69499,41.708877,0 -89.695103,41.709157,0 -89.695522,41.709186,0 -89.696834,41.709182,0 -89.69798900000001,41.709181,0 -89.69819,41.709105,0 -89.69844999999999,41.708824,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099080</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 43.03
+Attr ID: DU-0099080
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba51dc3e-f8a7-446e-a63d-4d1de0ba8bf5</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099080</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 43.03
+Attr ID: DU-0099080
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba51dc3e-f8a7-446e-a63d-4d1de0ba8bf5</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69819,41.709105,0 -89.698334,41.709153,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099090</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 34.64
+Attr ID: DU-0099090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 831b8151-09b0-48d4-9e69-fe422d24dbd1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099090</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 34.64
+Attr ID: DU-0099090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 831b8151-09b0-48d4-9e69-fe422d24dbd1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.696834,41.709182,0 -89.69680200000001,41.709274,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099100</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 34.44
+Attr ID: DU-0099100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 604116a6-918f-4afd-a8fe-b953d0df8038</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099100</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 34.44
+Attr ID: DU-0099100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 604116a6-918f-4afd-a8fe-b953d0df8038</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69475799999999,41.70995,0 -89.694884,41.709946,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099110</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 86.02
+Attr ID: DU-0099110
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5f76b234-a522-42ae-a1fd-c032622a51ee</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099110</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 86.02
+Attr ID: DU-0099110
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5f76b234-a522-42ae-a1fd-c032622a51ee</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.693397,41.711861,0 -89.693686,41.711767,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0099120</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 86.77
+Attr ID: DU-0099120
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9cc2612b-7484-4e37-8373-68d7b9d9297f</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0099120</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 86.77
+Attr ID: DU-0099120
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9cc2612b-7484-4e37-8373-68d7b9d9297f</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.694095,41.712975,0 -89.69438700000001,41.713069,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150270</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 294.29
+Attr ID: DU-0150270
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cdbefa4d-dea3-4ce3-8e57-0c54403800c1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150270</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 294.29
+Attr ID: DU-0150270
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cdbefa4d-dea3-4ce3-8e57-0c54403800c1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.717416,41.771774,0 -89.717,41.772182,0 -89.716607,41.772173,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150280</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 277.69
+Attr ID: DU-0150280
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5289968e-a068-40bc-885a-5f52dca3cf9d</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150280</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 277.69
+Attr ID: DU-0150280
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5289968e-a068-40bc-885a-5f52dca3cf9d</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.71672100000001,41.772622,0 -89.716354,41.772622,0 -89.716607,41.772173,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150290</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1090.46
+Attr ID: DU-0150290
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2e58945f-4fbc-4462-b6eb-15dc0445f832</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150290</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1090.46
+Attr ID: DU-0150290
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2e58945f-4fbc-4462-b6eb-15dc0445f832</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.71266900000001,41.772084,0 -89.71317000000001,41.772148,0 -89.713606,41.772177,0 -89.71442,41.772248,0 -89.716061,41.772276,0 -89.716317,41.772275,0 -89.716525,41.77224,0 -89.716607,41.772173,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150320</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 708.92
+Attr ID: DU-0150320
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 847d2ce5-cb18-4ba5-ab3d-b13d6f8dfe24</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150320</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 708.92
+Attr ID: DU-0150320
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 847d2ce5-cb18-4ba5-ab3d-b13d6f8dfe24</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.71266900000001,41.772084,0 -89.712643,41.77209,0 -89.711873,41.772002,0 -89.71098499999999,41.771879,0 -89.71012899999999,41.771746,0 -89.71011799999999,41.771738,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150350</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 236.33
+Attr ID: DU-0150350
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 500a3206-d360-4f44-863f-f6795dec9449</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150350</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 236.33
+Attr ID: DU-0150350
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 500a3206-d360-4f44-863f-f6795dec9449</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.71055800000001,41.771803,0 -89.710133,41.77174,0 -89.71011799999999,41.771738,0 -89.710112,41.771732,0 -89.709717,41.771656,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150380</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 678.98
+Attr ID: DU-0150380
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8bc53a50-a09d-436b-8209-0b6a53e615f4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150380</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 678.98
+Attr ID: DU-0150380
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8bc53a50-a09d-436b-8209-0b6a53e615f4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.741591,41.772496,0 -89.740646,41.77249,0 -89.739102,41.772496,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150390</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 305.8
+Attr ID: DU-0150390
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 69594ded-bee4-4ede-9ebd-96ecb689e52b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150390</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 305.8
+Attr ID: DU-0150390
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 69594ded-bee4-4ede-9ebd-96ecb689e52b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.739271,41.772215,0 -89.740392,41.772218,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150410</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 319.5
+Attr ID: DU-0150410
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 64cb9a6d-8b21-4688-9021-3b207a43954a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150410</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 319.5
+Attr ID: DU-0150410
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 64cb9a6d-8b21-4688-9021-3b207a43954a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.725897,41.772288,0 -89.72547900000001,41.772294,0 -89.725092,41.772298,0 -89.72506300000001,41.772311,0 -89.725081,41.772323,0 -89.72508999999999,41.772537,0 -89.725078,41.772551,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150420</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 731.44
+Attr ID: DU-0150420
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 82d008bd-4a20-4ca6-ac91-3a6eb16dc64c</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150420</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 731.44
+Attr ID: DU-0150420
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 82d008bd-4a20-4ca6-ac91-3a6eb16dc64c</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.72506300000001,41.772311,0 -89.723895,41.772327,0 -89.723325,41.772328,0 -89.723314,41.771622,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150450</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1100.36
+Attr ID: DU-0150450
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b3cd96d-d014-43e7-bf4a-217fa93123a0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150450</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1100.36
+Attr ID: DU-0150450
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b3cd96d-d014-43e7-bf4a-217fa93123a0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.71011799999999,41.771738,0 -89.710103,41.771741,0 -89.70891399999999,41.771521,0 -89.708831,41.771486,0 -89.70880699999999,41.771464,0 -89.708786,41.771732,0 -89.706596,41.771202,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150460</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 530.18
+Attr ID: DU-0150460
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 04d69f9f-ac75-4ea7-9f98-30f15d7072ad</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150460</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 530.18
+Attr ID: DU-0150460
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 04d69f9f-ac75-4ea7-9f98-30f15d7072ad</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.706596,41.771202,0 -89.70553099999999,41.770914,0 -89.7054,41.770954,0 -89.705287,41.771246,0 -89.705375,41.771432,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150490</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1369.44
+Attr ID: DU-0150490
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8c3a5336-9633-479d-997c-51c0160b113a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150490</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1369.44
+Attr ID: DU-0150490
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8c3a5336-9633-479d-997c-51c0160b113a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70880699999999,41.771464,0 -89.708412,41.77135,0 -89.708524,41.77129,0 -89.70854300000001,41.77086,0 -89.707977,41.770858,0 -89.70712399999999,41.770868,0 -89.707105,41.771026,0 -89.706891,41.771022,0 -89.705601,41.77063,0 -89.705534,41.770508,0 -89.705501,41.770385,0 -89.70555,41.770161,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150520</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 2596.75
+Attr ID: DU-0150520
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 022b506e-101d-47e0-8806-2d8f4618f292</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150520</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 2596.75
+Attr ID: DU-0150520
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 022b506e-101d-47e0-8806-2d8f4618f292</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70555,41.770161,0 -89.70555,41.769877,0 -89.704551,41.769868,0 -89.703659,41.769829,0 -89.703459,41.76974,0 -89.703458,41.769279,0 -89.70284100000001,41.769284,0 -89.70215,41.769291,0 -89.70198499999999,41.769289,0 -89.70198000000001,41.768681,0 -89.70045,41.768697,0 -89.70044799999999,41.768359,0 -89.70044799999999,41.768092,0 -89.69901299999999,41.768057,0 -89.699003,41.767918,0 -89.69884999999999,41.767913,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150530</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1897.83
+Attr ID: DU-0150530
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 44d6cc9d-cfeb-4131-8472-cf90995ad14a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150530</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1897.83
+Attr ID: DU-0150530
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 44d6cc9d-cfeb-4131-8472-cf90995ad14a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69954199999999,41.768335,0 -89.699539,41.768076,0 -89.699006,41.768063,0 -89.69899599999999,41.767922,0 -89.698864,41.767919,0 -89.69884999999999,41.767913,0 -89.698847,41.767499,0 -89.69755499999999,41.767478,0 -89.69708,41.767486,0 -89.697068,41.767738,0 -89.697035,41.767786,0 -89.69707099999999,41.767847,0 -89.697608,41.768039,0 -89.697487,41.768243,0 -89.69562999999999,41.767631,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150540</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 854.21
+Attr ID: DU-0150540
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cfd5cb1c-ea95-4fa2-93b7-7aa2005b6bd9</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150540</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 854.21
+Attr ID: DU-0150540
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cfd5cb1c-ea95-4fa2-93b7-7aa2005b6bd9</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697487,41.768243,0 -89.69757799999999,41.768305,0 -89.697547,41.768694,0 -89.697715,41.768713,0 -89.697704,41.769579,0 -89.697688,41.76966,0 -89.697495,41.769771,0 -89.697452,41.769877,0 -89.697416,41.770038,0 -89.69740400000001,41.770188,0 -89.697372,41.770224,0 -89.697345,41.77036,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150550</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 838.17
+Attr ID: DU-0150550
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a8331796-abb9-45a5-828d-cbd93e51eb81</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150550</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 838.17
+Attr ID: DU-0150550
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a8331796-abb9-45a5-828d-cbd93e51eb81</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697385,41.770359,0 -89.697394,41.770349,0 -89.697425,41.770197,0 -89.69788800000001,41.770196,0 -89.698689,41.770191,0 -89.698679,41.76939,0 -89.698685,41.769003,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150560</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1874.6
+Attr ID: DU-0150560
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 14a20a5d-0748-4b45-8df1-04e18af2f6d1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150560</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1874.6
+Attr ID: DU-0150560
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 14a20a5d-0748-4b45-8df1-04e18af2f6d1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.698679,41.76939,0 -89.69882800000001,41.769353,0 -89.699747,41.769358,0 -89.700636,41.769377,0 -89.70070800000001,41.769321,0 -89.70106,41.769419,0 -89.701336,41.769511,0 -89.701886,41.769697,0 -89.70217599999999,41.769851,0 -89.702153,41.769933,0 -89.70214300000001,41.770496,0 -89.702484,41.770494,0 -89.70294699999999,41.770494,0 -89.70299,41.770483,0 -89.70304400000001,41.770498,0 -89.70363,41.7705,0 -89.703637,41.77091,0 -89.703898,41.770908,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150570</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1946.38
+Attr ID: DU-0150570
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: eca99136-582c-4a95-8d6f-12d81b047ea4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150570</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1946.38
+Attr ID: DU-0150570
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: eca99136-582c-4a95-8d6f-12d81b047ea4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697035,41.767786,0 -89.696945,41.767809,0 -89.695455,41.767311,0 -89.69395900000001,41.766813,0 -89.693005,41.766502,0 -89.69107700000001,41.765843,0 -89.691012,41.76573,0 -89.69100400000001,41.765396,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150580</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1635.45
+Attr ID: DU-0150580
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 77eb9ac4-435e-41c4-adf3-5cfb97337fa5</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150580</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1635.45
+Attr ID: DU-0150580
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 77eb9ac4-435e-41c4-adf3-5cfb97337fa5</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69107700000001,41.765843,0 -89.690275,41.76556,0 -89.689701,41.765358,0 -89.689548,41.765176,0 -89.68960800000001,41.76463,0 -89.6896,41.763821,0 -89.689615,41.762973,0 -89.689773,41.762221,0 -89.689784,41.762053,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150590</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 597.65
+Attr ID: DU-0150590
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 25d7e5af-562a-4dd3-9c9f-cce45bbbefef</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150590</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 597.65
+Attr ID: DU-0150590
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 25d7e5af-562a-4dd3-9c9f-cce45bbbefef</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689784,41.762053,0 -89.68979400000001,41.761434,0 -89.689807,41.760413,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150600</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 695.09
+Attr ID: DU-0150600
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 79e923cd-a6b6-423f-9dd2-c019c7ebb1c8</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150600</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 695.09
+Attr ID: DU-0150600
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 79e923cd-a6b6-423f-9dd2-c019c7ebb1c8</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689784,41.762053,0 -89.68978199999999,41.761417,0 -89.68919200000001,41.761482,0 -89.689194,41.762307,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150610</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 714.75
+Attr ID: DU-0150610
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e12ccfc6-8977-4109-8855-120d9bb4b5d6</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150610</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 714.75
+Attr ID: DU-0150610
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e12ccfc6-8977-4109-8855-120d9bb4b5d6</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68960800000001,41.76463,0 -89.689238,41.764656,0 -89.689137,41.764936,0 -89.688925,41.765126,0 -89.688547,41.765001,0 -89.68838100000001,41.765214,0 -89.687623,41.765054,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150620</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 213.37
+Attr ID: DU-0150620
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b6fda43-ac4a-4430-ac00-873dad60a990</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150620</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 213.37
+Attr ID: DU-0150620
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b6fda43-ac4a-4430-ac00-873dad60a990</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68222,41.762887,0 -89.681809,41.762753,0 -89.68162599999999,41.762962,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150630</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 5458.7
+Attr ID: DU-0150630
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3598367e-8f1c-413f-849b-c4bd9edba42d</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150630</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 5458.7
+Attr ID: DU-0150630
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3598367e-8f1c-413f-849b-c4bd9edba42d</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688547,41.765001,0 -89.682231,41.762899,0 -89.68222,41.762887,0 -89.68217799999999,41.762885,0 -89.679824,41.76208,0 -89.67929100000001,41.76191,0 -89.678325,41.761587,0 -89.675917,41.760788,0 -89.674847,41.76042,0 -89.673815,41.760101,0 -89.672792,41.759768,0 -89.67214,41.759538,0 -89.67123100000001,41.759244,0 -89.67084199999999,41.759143,0 -89.670236,41.758982,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150640</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 216.26
+Attr ID: DU-0150640
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ccb8e1d5-1932-4c08-9697-3f0f48093fb3</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150640</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 216.26
+Attr ID: DU-0150640
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ccb8e1d5-1932-4c08-9697-3f0f48093fb3</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67123100000001,41.759244,0 -89.671111,41.759481,0 -89.67152299999999,41.759624,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150650</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 460.1
+Attr ID: DU-0150650
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 991a1df8-4498-405f-bfa7-4d85578bcc24</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150650</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 460.1
+Attr ID: DU-0150650
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 991a1df8-4498-405f-bfa7-4d85578bcc24</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67123100000001,41.759244,0 -89.671097,41.759474,0 -89.67018299999999,41.759223,0 -89.669825,41.759133,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150660</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1985.84
+Attr ID: DU-0150660
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 23b2c5d5-b406-4562-bb3e-51109770cc9a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150660</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1985.84
+Attr ID: DU-0150660
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 23b2c5d5-b406-4562-bb3e-51109770cc9a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67929100000001,41.76191,0 -89.67930699999999,41.76192,0 -89.679816,41.762086,0 -89.679817,41.762363,0 -89.680678,41.762613,0 -89.680718,41.763163,0 -89.68068100000001,41.763418,0 -89.68051699999999,41.764014,0 -89.68047199999999,41.764141,0 -89.680469,41.765338,0 -89.682213,41.765342,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150670</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 225.61
+Attr ID: DU-0150670
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9514a028-1658-42f6-a95f-18415aeddd70</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150670</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 225.61
+Attr ID: DU-0150670
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9514a028-1658-42f6-a95f-18415aeddd70</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68051699999999,41.764014,0 -89.680685,41.764001,0 -89.681343,41.764007,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150680</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 906.81
+Attr ID: DU-0150680
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2dc530f2-74da-4825-972b-ddf4ba352592</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150680</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 906.81
+Attr ID: DU-0150680
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2dc530f2-74da-4825-972b-ddf4ba352592</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.674847,41.76042,0 -89.674712,41.760679,0 -89.67501799999999,41.760785,0 -89.675061,41.760965,0 -89.675045,41.761331,0 -89.675042,41.76274,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150690</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 531.89
+Attr ID: DU-0150690
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: b54a436a-81e0-4f56-8d8d-094bd57e6ac9</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150690</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 531.89
+Attr ID: DU-0150690
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: b54a436a-81e0-4f56-8d8d-094bd57e6ac9</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.675392,41.762221,0 -89.67535599999999,41.762784,0 -89.675355,41.76368,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150700</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1694.4
+Attr ID: DU-0150700
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 82fbaee3-4975-46d1-bdb7-7146f8f2e488</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150700</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1694.4
+Attr ID: DU-0150700
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 82fbaee3-4975-46d1-bdb7-7146f8f2e488</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.675042,41.76274,0 -89.67502500000001,41.7643,0 -89.675252,41.764325,0 -89.67745600000001,41.764303,0 -89.677465,41.764132,0 -89.67764699999999,41.76413,0 -89.67866100000001,41.764113,0 -89.67866100000001,41.764314,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150710</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 708.95
+Attr ID: DU-0150710
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 17ddce87-de4a-4bb5-9c59-e56fa07900ee</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150710</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 708.95
+Attr ID: DU-0150710
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 17ddce87-de4a-4bb5-9c59-e56fa07900ee</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67502500000001,41.7643,0 -89.675034,41.765902,0 -89.67499100000001,41.766244,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150720</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1435.64
+Attr ID: DU-0150720
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 67bd3945-d935-4d82-9027-453b36e77574</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150720</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1435.64
+Attr ID: DU-0150720
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 67bd3945-d935-4d82-9027-453b36e77574</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.673366,41.766212,0 -89.671526,41.76621,0 -89.670652,41.766222,0 -89.669517,41.76622,0 -89.66950900000001,41.766062,0 -89.668307,41.766066,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150730</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 894.5
+Attr ID: DU-0150730
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: abc14fab-fa44-4cbe-bb8b-74dbc20d74d1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150730</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 894.5
+Attr ID: DU-0150730
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: abc14fab-fa44-4cbe-bb8b-74dbc20d74d1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.671526,41.76621,0 -89.671081,41.766346,0 -89.671059,41.766543,0 -89.671065,41.768355,0 -89.671153,41.768409,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150740</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 515.12
+Attr ID: DU-0150740
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1e09cb64-ff88-4d74-ab15-69398eb66a07</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150740</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 515.12
+Attr ID: DU-0150740
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1e09cb64-ff88-4d74-ab15-69398eb66a07</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67499100000001,41.766244,0 -89.675421,41.766244,0 -89.67544700000001,41.766204,0 -89.675856,41.766186,0 -89.676845,41.766193,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150750</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 275.49
+Attr ID: DU-0150750
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 87ed7e80-7f83-49b9-bff4-617a8f702747</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150750</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 275.49
+Attr ID: DU-0150750
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 87ed7e80-7f83-49b9-bff4-617a8f702747</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.675837,41.766196,0 -89.676828,41.766199,0 -89.676845,41.766193,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150760</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 471.15
+Attr ID: DU-0150760
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1b2504a7-9fe7-4b38-94f1-2c4706b7559a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150760</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 471.15
+Attr ID: DU-0150760
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1b2504a7-9fe7-4b38-94f1-2c4706b7559a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67789500000001,41.766026,0 -89.678265,41.766029,0 -89.67962199999999,41.766029,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150770</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1233.36
+Attr ID: DU-0150770
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 91e4b5e2-a9c5-41f1-9c6f-462c7a4a8931</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150770</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1233.36
+Attr ID: DU-0150770
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 91e4b5e2-a9c5-41f1-9c6f-462c7a4a8931</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67499100000001,41.766244,0 -89.675057,41.766467,0 -89.67506899999999,41.767116,0 -89.674688,41.767197,0 -89.674699,41.767701,0 -89.674431,41.767713,0 -89.674522,41.767805,0 -89.67495099999999,41.767813,0 -89.674954,41.767587,0 -89.67528299999999,41.767585,0 -89.67534000000001,41.768181,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150780</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1606.98
+Attr ID: DU-0150780
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: bb263b9f-9d59-4bfc-8756-a50424f784c4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150780</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1606.98
+Attr ID: DU-0150780
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: bb263b9f-9d59-4bfc-8756-a50424f784c4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67495099999999,41.767813,0 -89.674976,41.767852,0 -89.675006,41.769307,0 -89.674995,41.770453,0 -89.67613900000001,41.77047,0 -89.67670200000001,41.770444,0 -89.677352,41.770449,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150790</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1019.45
+Attr ID: DU-0150790
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8b4b34aa-ec23-4be5-b1a8-0394d995f47e</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150790</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1019.45
+Attr ID: DU-0150790
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8b4b34aa-ec23-4be5-b1a8-0394d995f47e</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67613900000001,41.77047,0 -89.676311,41.770277,0 -89.678427,41.770281,0 -89.679176,41.7703,0 -89.679444,41.770354,0 -89.679481,41.770353,0 -89.67939,41.770525,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150820</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 274.02
+Attr ID: DU-0150820
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8a3e3767-c600-4262-9cff-75c287367e7e</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150820</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 274.02
+Attr ID: DU-0150820
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8a3e3767-c600-4262-9cff-75c287367e7e</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69014199999999,41.766538,0 -89.69041799999999,41.766533,0 -89.69049099999999,41.766404,0 -89.69103200000001,41.766393,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150840</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1074.26
+Attr ID: DU-0150840
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 072637ab-d12f-472e-b299-324001c5c438</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150840</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1074.26
+Attr ID: DU-0150840
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 072637ab-d12f-472e-b299-324001c5c438</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69014199999999,41.766538,0 -89.689583,41.766545,0 -89.68952400000001,41.766595,0 -89.689494,41.768057,0 -89.689527,41.767968,0 -89.690335,41.767963,0 -89.69074000000001,41.767956,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150850</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 689.29
+Attr ID: DU-0150850
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 78252037-9c2f-4a32-ad89-3c9f78e10470</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150850</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 689.29
+Attr ID: DU-0150850
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 78252037-9c2f-4a32-ad89-3c9f78e10470</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689494,41.768057,0 -89.689515,41.76907,0 -89.68958499999999,41.768959,0 -89.69005199999999,41.76895,0 -89.69023,41.768944,0 -89.690594,41.768937,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150860</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 563.25
+Attr ID: DU-0150860
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 35a36283-ad95-461f-a646-d88ab1c31855</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150860</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 563.25
+Attr ID: DU-0150860
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 35a36283-ad95-461f-a646-d88ab1c31855</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689515,41.76907,0 -89.68952899999999,41.769816,0 -89.69002399999999,41.769815,0 -89.690209,41.769819,0 -89.690597,41.769815,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150890</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 482
+Attr ID: DU-0150890
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ec164be2-963f-40bd-a837-0424a2b421d3</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150890</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 482
+Attr ID: DU-0150890
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ec164be2-963f-40bd-a837-0424a2b421d3</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68952899999999,41.769816,0 -89.68952899999999,41.770003,0 -89.688012,41.76999,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150900</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 156.46
+Attr ID: DU-0150900
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4c05f051-df47-426d-abb4-1fa5aa4de33b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150900</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 156.46
+Attr ID: DU-0150900
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4c05f051-df47-426d-abb4-1fa5aa4de33b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688012,41.76999,0 -89.688031,41.769996,0 -89.688457,41.77,0 -89.688458,41.770095,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150910</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 338.63
+Attr ID: DU-0150910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cc25a206-9d8c-4fb7-8aa6-503f3c71c265</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150910</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 338.63
+Attr ID: DU-0150910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cc25a206-9d8c-4fb7-8aa6-503f3c71c265</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68865599999999,41.769549,0 -89.688664,41.769989,0 -89.68802599999999,41.769985,0 -89.688012,41.76999,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150920</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 282.99
+Attr ID: DU-0150920
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 54ce41c4-09f9-4a30-8e53-7cd189ee12b0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150920</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 282.99
+Attr ID: DU-0150920
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 54ce41c4-09f9-4a30-8e53-7cd189ee12b0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68868000000001,41.768486,0 -89.68865700000001,41.768734,0 -89.688654,41.769262,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150930</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 464.66
+Attr ID: DU-0150930
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5fac065d-5aa2-46f9-815a-14a0bb373eb4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150930</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 464.66
+Attr ID: DU-0150930
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5fac065d-5aa2-46f9-815a-14a0bb373eb4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68868000000001,41.768486,0 -89.688676,41.768171,0 -89.68867299999999,41.767924,0 -89.688669,41.767571,0 -89.68868000000001,41.767211,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150940</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 74.2
+Attr ID: DU-0150940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 00e1c5d5-c8ed-4268-b275-c5e7488471f1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150940</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 74.2
+Attr ID: DU-0150940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 00e1c5d5-c8ed-4268-b275-c5e7488471f1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688012,41.76999,0 -89.68774000000001,41.769988,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150950</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 539.04
+Attr ID: DU-0150950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b02a37d-7924-4dbb-9bbc-da32940de3de</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150950</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 539.04
+Attr ID: DU-0150950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b02a37d-7924-4dbb-9bbc-da32940de3de</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688012,41.76999,0 -89.68802700000001,41.770018,0 -89.68803800000001,41.770894,0 -89.68806600000001,41.771,0 -89.688248,41.771006,0 -89.688238,41.7713,0 -89.68823,41.771334,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150960</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 125.15
+Attr ID: DU-0150960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 23b68a75-0c5b-4d05-aee5-965a09022026</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150960</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 125.15
+Attr ID: DU-0150960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 23b68a75-0c5b-4d05-aee5-965a09022026</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68806600000001,41.771,0 -89.68802100000001,41.770986,0 -89.68798,41.770893,0 -89.687701,41.770885,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150970</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 261.56
+Attr ID: DU-0150970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5cbd0bab-ee43-4fd0-99b7-0066b7009f0c</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150970</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 261.56
+Attr ID: DU-0150970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5cbd0bab-ee43-4fd0-99b7-0066b7009f0c</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68823,41.771334,0 -89.68825699999999,41.771314,0 -89.688266,41.771017,0 -89.68879,41.77102,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150980</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 234.76
+Attr ID: DU-0150980
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: dd144667-a5ad-490c-9375-73ea27a3d4f5</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150980</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 234.76
+Attr ID: DU-0150980
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: dd144667-a5ad-490c-9375-73ea27a3d4f5</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68823,41.771334,0 -89.688254,41.771978,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0150990</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 3260.69
+Attr ID: DU-0150990
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 60c0f79a-aba5-4c2f-a611-466b52f2f702</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0150990</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 3260.69
+Attr ID: DU-0150990
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 60c0f79a-aba5-4c2f-a611-466b52f2f702</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68825699999999,41.771334,0 -89.688275,41.771313,0 -89.68827899999999,41.770994,0 -89.68809,41.770988,0 -89.68806600000001,41.771,0 -89.688053,41.772397,0 -89.68803,41.772436,0 -89.688028,41.773114,0 -89.68804,41.774131,0 -89.688064,41.774172,0 -89.688041,41.7742,0 -89.68801999999999,41.774964,0 -89.68803,41.775008,0 -89.688002,41.775049,0 -89.688008,41.776391,0 -89.68802700000001,41.776412,0 -89.68800899999999,41.776427,0 -89.688012,41.776527,0 -89.688091,41.776556,0 -89.688705,41.776553,0 -89.688727,41.776546,0 -89.68873600000001,41.776562,0 -89.68867899999999,41.778815,0 -89.688683,41.778887,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151000</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 2553.25
+Attr ID: DU-0151000
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba02941c-461c-478c-80f5-6be83def4fc2</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151000</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 2553.25
+Attr ID: DU-0151000
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba02941c-461c-478c-80f5-6be83def4fc2</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688053,41.772397,0 -89.688051,41.773118,0 -89.688064,41.774172,0 -89.68804299999999,41.774973,0 -89.68803,41.775008,0 -89.688017,41.775049,0 -89.688012,41.775969,0 -89.688019,41.776388,0 -89.68802700000001,41.776412,0 -89.688022,41.776434,0 -89.688025,41.77652,0 -89.688097,41.776547,0 -89.688727,41.776546,0 -89.688743,41.776557,0 -89.688698,41.778848,0 -89.688683,41.778887,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151010</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 50.51
+Attr ID: DU-0151010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f3bb1c4e-f3ad-4167-80c2-145183c46bf6</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151010</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 50.51
+Attr ID: DU-0151010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f3bb1c4e-f3ad-4167-80c2-145183c46bf6</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688249,41.774166,0 -89.688064,41.774172,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151020</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 54.6
+Attr ID: DU-0151020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2693e33f-1452-4d79-9bed-409adadf56a3</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151020</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 54.6
+Attr ID: DU-0151020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2693e33f-1452-4d79-9bed-409adadf56a3</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68823,41.775002,0 -89.68803,41.775008,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151030</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 511.65
+Attr ID: DU-0151030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 616f87c1-f2f3-4c61-882c-e14eb6ae1fb0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151030</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 511.65
+Attr ID: DU-0151030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 616f87c1-f2f3-4c61-882c-e14eb6ae1fb0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68803,41.775008,0 -89.688018,41.775969,0 -89.68802700000001,41.776412,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151040</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1050.18
+Attr ID: DU-0151040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f8be43d9-b4c8-43a8-ba6d-8069eb366e25</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151040</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1050.18
+Attr ID: DU-0151040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f8be43d9-b4c8-43a8-ba6d-8069eb366e25</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68803800000001,41.776553,0 -89.688067,41.776539,0 -89.68870800000001,41.776541,0 -89.688727,41.776546,0 -89.68875,41.776551,0 -89.68875199999999,41.776821,0 -89.688748,41.777397,0 -89.68874599999999,41.777514,0 -89.688738,41.778049,0 -89.688734,41.778319,0 -89.68871,41.778861,0 -89.688683,41.778887,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151050</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 809.47
+Attr ID: DU-0151050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ebca4bba-950d-4614-8d69-1fefbd868324</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151050</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 809.47
+Attr ID: DU-0151050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ebca4bba-950d-4614-8d69-1fefbd868324</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688683,41.778887,0 -89.688695,41.778954,0 -89.688699,41.779141,0 -89.688703,41.779396,0 -89.68872,41.779769,0 -89.689206,41.780263,0 -89.689407,41.780528,0 -89.68943400000001,41.780532,0 -89.68905100000001,41.780724,0 -89.689106,41.78076,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151080</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 657.08
+Attr ID: DU-0151080
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b174235-9575-4f26-8523-0201ec155a06</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151080</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 657.08
+Attr ID: DU-0151080
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b174235-9575-4f26-8523-0201ec155a06</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68943400000001,41.780532,0 -89.69049099999999,41.779998,0 -89.690529,41.780069,0 -89.691059,41.780657,0 -89.691045,41.780719,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151090</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 157.02
+Attr ID: DU-0151090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b12ea68-c47c-4248-96bc-4e2c39a0a8c4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151090</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 157.02
+Attr ID: DU-0151090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2b12ea68-c47c-4248-96bc-4e2c39a0a8c4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69049099999999,41.779998,0 -89.690185,41.779633,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151100</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 202.87
+Attr ID: DU-0151100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4ba458da-0c75-4347-866f-c3d95c15f4cf</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151100</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 202.87
+Attr ID: DU-0151100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4ba458da-0c75-4347-866f-c3d95c15f4cf</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.690185,41.779633,0 -89.68977,41.779171,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151110</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 79.44
+Attr ID: DU-0151110
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e317fff3-d711-456a-b3c4-4f2cc0d32796</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151110</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 79.44
+Attr ID: DU-0151110
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e317fff3-d711-456a-b3c4-4f2cc0d32796</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69049099999999,41.779998,0 -89.69066100000001,41.780175,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151300</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 46.97
+Attr ID: DU-0151300
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9db6a7a9-9bb4-4107-8c08-5ec601d96bc1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151300</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 46.97
+Attr ID: DU-0151300
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9db6a7a9-9bb4-4107-8c08-5ec601d96bc1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689674,41.779064,0 -89.68977,41.779171,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151810</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 359.72
+Attr ID: DU-0151810
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ca5e4338-363d-4a86-b922-2e29aa2fe0dd</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151810</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 359.72
+Attr ID: DU-0151810
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ca5e4338-363d-4a86-b922-2e29aa2fe0dd</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67123100000001,41.759244,0 -89.67109000000001,41.759463,0 -89.67015499999999,41.759211,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151830</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 3.51
+Attr ID: DU-0151830
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 87d0656d-3d10-46f1-83ca-f0a87c988a37</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151830</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 3.51
+Attr ID: DU-0151830
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 87d0656d-3d10-46f1-83ca-f0a87c988a37</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.670247,41.758977,0 -89.670236,41.758982,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151840</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 10.39
+Attr ID: DU-0151840
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7f6bc2f3-e193-401d-8c21-f8e5869bbdf2</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151840</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 10.39
+Attr ID: DU-0151840
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7f6bc2f3-e193-401d-8c21-f8e5869bbdf2</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67088,41.759145,0 -89.67084199999999,41.759143,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151850</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 285.58
+Attr ID: DU-0151850
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1fe5577b-0c7f-491b-a9e8-a2243dbd2ff5</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151850</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 285.58
+Attr ID: DU-0151850
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1fe5577b-0c7f-491b-a9e8-a2243dbd2ff5</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.672196,41.759542,0 -89.671252,41.759242,0 -89.67123100000001,41.759244,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151860</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 307.94
+Attr ID: DU-0151860
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 414b1022-1215-462f-983e-150e20385ac0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151860</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 307.94
+Attr ID: DU-0151860
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 414b1022-1215-462f-983e-150e20385ac0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.673811,41.760091,0 -89.674835,41.760407,0 -89.674847,41.76042,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151870</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 157.34
+Attr ID: DU-0151870
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8a9f4d66-bb56-4eb9-a629-2355fc8f3a75</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151870</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 157.34
+Attr ID: DU-0151870
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8a9f4d66-bb56-4eb9-a629-2355fc8f3a75</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67537400000001,41.760587,0 -89.674865,41.760416,0 -89.674847,41.76042,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151880</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 291.66
+Attr ID: DU-0151880
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6ff87091-04ae-4bcf-bf4d-23c69d72a40b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151880</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 291.66
+Attr ID: DU-0151880
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6ff87091-04ae-4bcf-bf4d-23c69d72a40b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.678324,41.761574,0 -89.67928499999999,41.761901,0 -89.67929100000001,41.76191,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151890</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 259.48
+Attr ID: DU-0151890
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a99ce4f8-eb60-447a-88c7-b32fccb0174a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151890</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 259.48
+Attr ID: DU-0151890
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a99ce4f8-eb60-447a-88c7-b32fccb0174a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67980900000001,41.76236,0 -89.67980799999999,41.762066,0 -89.679767,41.762052,0 -89.67931,41.761911,0 -89.67929100000001,41.76191,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151910</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 313.28
+Attr ID: DU-0151910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 693836de-f70e-44a3-b61a-268d164c734a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151910</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 313.28
+Attr ID: DU-0151910
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 693836de-f70e-44a3-b61a-268d164c734a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.680695,41.763169,0 -89.680668,41.763412,0 -89.680581,41.763648,0 -89.680509,41.763994,0 -89.68051699999999,41.764014,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151940</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 5.47
+Attr ID: DU-0151940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 35d4f91a-d5d8-4f61-8684-f1ca2bdb77ff</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151940</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 5.47
+Attr ID: DU-0151940
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 35d4f91a-d5d8-4f61-8684-f1ca2bdb77ff</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.680497,41.764015,0 -89.68051699999999,41.764014,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151950</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 126.81
+Attr ID: DU-0151950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1f284179-5975-40ad-9c73-a76aed575914</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151950</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 126.81
+Attr ID: DU-0151950
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1f284179-5975-40ad-9c73-a76aed575914</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68045600000001,41.764992,0 -89.680458,41.765322,0 -89.680469,41.765338,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151960</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 224.49
+Attr ID: DU-0151960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ac2191e5-0549-476c-a12b-37ca534cb3b4</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151960</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 224.49
+Attr ID: DU-0151960
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ac2191e5-0549-476c-a12b-37ca534cb3b4</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68051699999999,41.764014,0 -89.680499,41.764029,0 -89.68046099999999,41.764143,0 -89.680443,41.764375,0 -89.680446,41.764621,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0151970</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 155.72
+Attr ID: DU-0151970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7b123968-c475-4a59-bb1f-1b741f7d4992</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0151970</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 155.72
+Attr ID: DU-0151970
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7b123968-c475-4a59-bb1f-1b741f7d4992</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.690129,41.762221,0 -89.689787,41.762222,0 -89.689791,41.762058,0 -89.689784,41.762053,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152010</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 287.82
+Attr ID: DU-0152010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1b4309ba-0018-4157-b9a6-084a0813562b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152010</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 287.82
+Attr ID: DU-0152010
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 1b4309ba-0018-4157-b9a6-084a0813562b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.693972,41.766779,0 -89.69392499999999,41.766797,0 -89.693022,41.766502,0 -89.693005,41.766502,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152020</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 272.68
+Attr ID: DU-0152020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 31cfb483-a9a0-4c2f-8289-c96ff4336a53</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152020</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 272.68
+Attr ID: DU-0152020
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 31cfb483-a9a0-4c2f-8289-c96ff4336a53</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697035,41.767786,0 -89.697045,41.767789,0 -89.697078,41.767845,0 -89.697619,41.768037,0 -89.69750000000001,41.768238,0 -89.697487,41.768243,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152030</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 238.61
+Attr ID: DU-0152030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 66324aee-7b62-4b21-8868-e9b3ee6d492d</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152030</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 238.61
+Attr ID: DU-0152030
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 66324aee-7b62-4b21-8868-e9b3ee6d492d</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697554,41.767484,0 -89.69708799999999,41.76749,0 -89.697074,41.767739,0 -89.697045,41.767782,0 -89.697035,41.767786,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152040</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 414.62
+Attr ID: DU-0152040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7f0165a7-7a95-4457-bc70-f9fe9cdfd344</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152040</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 414.62
+Attr ID: DU-0152040
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7f0165a7-7a95-4457-bc70-f9fe9cdfd344</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.701436,41.768679,0 -89.701989,41.768674,0 -89.70199700000001,41.76928,0 -89.702127,41.76928,0 -89.70215,41.769291,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152050</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 190.24
+Attr ID: DU-0152050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 62e65c0d-cd71-46f1-8e8e-27644f34ffec</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152050</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 190.24
+Attr ID: DU-0152050
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 62e65c0d-cd71-46f1-8e8e-27644f34ffec</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70215,41.769291,0 -89.70218300000001,41.76928,0 -89.70282899999999,41.769277,0 -89.70284100000001,41.769284,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152060</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 372.68
+Attr ID: DU-0152060
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9d2ff2ea-ffc8-4919-ada4-a0c01e579214</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152060</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 372.68
+Attr ID: DU-0152060
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9d2ff2ea-ffc8-4919-ada4-a0c01e579214</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70555,41.770161,0 -89.70554,41.770152,0 -89.705539,41.769882,0 -89.70456799999999,41.769874,0 -89.704551,41.769868,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152070</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 350.57
+Attr ID: DU-0152070
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: aa53a34c-b394-4297-bdf5-d9d7813d4344</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152070</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 350.57
+Attr ID: DU-0152070
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: aa53a34c-b394-4297-bdf5-d9d7813d4344</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.707977,41.770858,0 -89.70796199999999,41.77085,0 -89.707115,41.770861,0 -89.70709600000001,41.771018,0 -89.70690500000001,41.771015,0 -89.70689299999999,41.771005,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152090</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1032.77
+Attr ID: DU-0152090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e69811dc-4fcc-4e27-bf22-6f0a03193760</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152090</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1032.77
+Attr ID: DU-0152090
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: e69811dc-4fcc-4e27-bf22-6f0a03193760</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.708786,41.771732,0 -89.709683,41.771916,0 -89.710543,41.772068,0 -89.71248300000001,41.772334,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152100</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 428.39
+Attr ID: DU-0152100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ac6b57a6-bf14-4f62-b893-5207095b1ab1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152100</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 428.39
+Attr ID: DU-0152100
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ac6b57a6-bf14-4f62-b893-5207095b1ab1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.708074,41.771592,0 -89.707876,41.771523,0 -89.70660700000001,41.771211,0 -89.706596,41.771202,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152120</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 372.98
+Attr ID: DU-0152120
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: c7677860-5f9b-463c-a56f-51c22b538b09</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152120</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 372.98
+Attr ID: DU-0152120
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: c7677860-5f9b-463c-a56f-51c22b538b09</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70880699999999,41.771464,0 -89.708916,41.771516,0 -89.71011799999999,41.771738,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152130</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 179.77
+Attr ID: DU-0152130
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 910f29dc-e739-4141-8625-0eb74648a32d</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152130</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 179.77
+Attr ID: DU-0152130
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 910f29dc-e739-4141-8625-0eb74648a32d</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.716607,41.772173,0 -89.716613,41.772195,0 -89.71637800000001,41.772605,0 -89.716354,41.772622,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152150</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 87.55
+Attr ID: DU-0152150
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5659a5a4-5939-4efd-bbf0-a09aabe72560</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152150</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 87.55
+Attr ID: DU-0152150
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 5659a5a4-5939-4efd-bbf0-a09aabe72560</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.725078,41.772551,0 -89.72506300000001,41.772311,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152160</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 463.8
+Attr ID: DU-0152160
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d2cb3aa6-71d7-434b-b252-3fe07c0be19a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152160</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 463.8
+Attr ID: DU-0152160
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d2cb3aa6-71d7-434b-b252-3fe07c0be19a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.737571,41.772233,0 -89.73878499999999,41.772216,0 -89.739271,41.772215,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152170</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 112.3
+Attr ID: DU-0152170
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 06387aaf-f58b-46c3-af7b-be21185d40ae</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152170</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 112.3
+Attr ID: DU-0152170
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 06387aaf-f58b-46c3-af7b-be21185d40ae</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.739271,41.772215,0 -89.739102,41.772496,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152190</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 253.26
+Attr ID: DU-0152190
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8daba323-ea69-4006-ab90-0fa6bc18e6a2</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152190</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 253.26
+Attr ID: DU-0152190
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 8daba323-ea69-4006-ab90-0fa6bc18e6a2</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.741591,41.772496,0 -89.74157099999999,41.772505,0 -89.740666,41.772515,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152200</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 147.63
+Attr ID: DU-0152200
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 20194a88-416e-4efc-9d8e-647b24e77a3a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152200</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 147.63
+Attr ID: DU-0152200
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 20194a88-416e-4efc-9d8e-647b24e77a3a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.70299,41.770483,0 -89.702945,41.770487,0 -89.70250799999999,41.770487,0 -89.70246899999999,41.770454,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152210</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 99.33
+Attr ID: DU-0152210
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f7bdbed3-67ad-42ec-b146-cd2206638c05</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152210</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 99.33
+Attr ID: DU-0152210
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f7bdbed3-67ad-42ec-b146-cd2206638c05</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.701336,41.769511,0 -89.70131600000001,41.769511,0 -89.70099999999999,41.769409,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152220</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 106.67
+Attr ID: DU-0152220
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9cc155e4-f168-4339-bfc9-96ec0b0b7e9d</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152220</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 106.67
+Attr ID: DU-0152220
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 9cc155e4-f168-4339-bfc9-96ec0b0b7e9d</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.698679,41.76939,0 -89.698668,41.769409,0 -89.698672,41.769681,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152230</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 191.37
+Attr ID: DU-0152230
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 50d81cf9-2309-4bec-9188-9cabefc232d1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152230</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 191.37
+Attr ID: DU-0152230
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 50d81cf9-2309-4bec-9188-9cabefc232d1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697385,41.770359,0 -89.697385,41.770347,0 -89.697417,41.770189,0 -89.697889,41.770186,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152240</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 638.38
+Attr ID: DU-0152240
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ca01887c-3450-4ffb-9b93-541274dfa794</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152240</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 638.38
+Attr ID: DU-0152240
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ca01887c-3450-4ffb-9b93-541274dfa794</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697385,41.770359,0 -89.69737600000001,41.770345,0 -89.697397,41.770185,0 -89.697408,41.770034,0 -89.697434,41.769926,0 -89.697445,41.769874,0 -89.697489,41.769766,0 -89.697682,41.769652,0 -89.697715,41.769652,0 -89.697726,41.769097,0 -89.697744,41.768712,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152250</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 57.84
+Attr ID: DU-0152250
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 278cd00d-cc7b-4a96-8538-4ef834543b17</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152250</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 57.84
+Attr ID: DU-0152250
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 278cd00d-cc7b-4a96-8538-4ef834543b17</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.697726,41.769097,0 -89.697514,41.769095,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152260</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 87.16
+Attr ID: DU-0152260
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f61e84bd-358c-4e13-a1b9-665752cd7709</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152260</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 87.16
+Attr ID: DU-0152260
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f61e84bd-358c-4e13-a1b9-665752cd7709</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67535599999999,41.762784,0 -89.675042,41.76274,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152270</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 325.41
+Attr ID: DU-0152270
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d349ec66-bac2-4674-a88c-8daccb4cdeaa</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152270</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 325.41
+Attr ID: DU-0152270
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: d349ec66-bac2-4674-a88c-8daccb4cdeaa</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.675252,41.764325,0 -89.675265,41.764314,0 -89.676438,41.764301,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152280</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 444.89
+Attr ID: DU-0152280
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 01fe1e94-549f-4e89-b1bf-4c13b38878a1</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152280</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 444.89
+Attr ID: DU-0152280
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 01fe1e94-549f-4e89-b1bf-4c13b38878a1</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.676845,41.766193,0 -89.678262,41.766189,0 -89.678265,41.766029,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152300</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 60.87
+Attr ID: DU-0152300
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 496384e3-81f7-4e94-8047-93d64159087b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152300</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 60.87
+Attr ID: DU-0152300
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 496384e3-81f7-4e94-8047-93d64159087b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67060499999999,41.766222,0 -89.67061,41.766055,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152310</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 537.51
+Attr ID: DU-0152310
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 80a99be8-1201-4d9c-b245-854a61915912</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152310</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 537.51
+Attr ID: DU-0152310
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 80a99be8-1201-4d9c-b245-854a61915912</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67495099999999,41.767813,0 -89.67495,41.768355,0 -89.674965,41.769288,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152320</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 302.48
+Attr ID: DU-0152320
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 50a96994-6081-482c-bab0-b8db70fda2a3</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152320</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 302.48
+Attr ID: DU-0152320
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 50a96994-6081-482c-bab0-b8db70fda2a3</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67613900000001,41.77047,0 -89.676123,41.770465,0 -89.675032,41.770441,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152330</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 85.95
+Attr ID: DU-0152330
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 05b2ef6c-75ba-43dd-a5d9-53e9ff8509e0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152330</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 85.95
+Attr ID: DU-0152330
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 05b2ef6c-75ba-43dd-a5d9-53e9ff8509e0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.67613900000001,41.77047,0 -89.67614,41.770457,0 -89.67629700000001,41.770281,0 -89.676311,41.770277,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152340</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 294.14
+Attr ID: DU-0152340
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 89740194-5c2b-4ae3-8a07-9aa517b3c5e6</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152340</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 294.14
+Attr ID: DU-0152340
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 89740194-5c2b-4ae3-8a07-9aa517b3c5e6</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.679481,41.770353,0 -89.67917799999999,41.770289,0 -89.678415,41.77027,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152350</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 185.56
+Attr ID: DU-0152350
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 71be895c-f62d-43df-91a3-b314f17b5bfa</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152350</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 185.56
+Attr ID: DU-0152350
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 71be895c-f62d-43df-91a3-b314f17b5bfa</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69014199999999,41.766538,0 -89.690822,41.766549,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152360</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 727.29
+Attr ID: DU-0152360
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4965a9c4-0000-4241-adc9-13d004adf4d0</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152360</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 727.29
+Attr ID: DU-0152360
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4965a9c4-0000-4241-adc9-13d004adf4d0</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68868000000001,41.768486,0 -89.688019,41.768489,0 -89.688012,41.76999,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152370</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 276.11
+Attr ID: DU-0152370
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 833846ac-32ee-44ce-97b6-48ea8ed545ff</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152370</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 276.11
+Attr ID: DU-0152370
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 833846ac-32ee-44ce-97b6-48ea8ed545ff</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688019,41.768489,0 -89.688002,41.768518,0 -89.688002,41.768921,0 -89.687994,41.769244,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152380</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 439.12
+Attr ID: DU-0152380
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4c350225-9a27-41b0-aeee-fdf4f2c233ab</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152380</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 439.12
+Attr ID: DU-0152380
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4c350225-9a27-41b0-aeee-fdf4f2c233ab</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688019,41.768489,0 -89.688024,41.768337,0 -89.68805,41.767661,0 -89.688019,41.767285,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152390</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 370.42
+Attr ID: DU-0152390
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: fe15b712-790a-47c3-93c4-5580a1ed5623</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152390</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 370.42
+Attr ID: DU-0152390
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: fe15b712-790a-47c3-93c4-5580a1ed5623</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68806600000001,41.771,0 -89.688042,41.770971,0 -89.688022,41.770891,0 -89.688012,41.76999,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152400</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 158.2
+Attr ID: DU-0152400
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ed1a953f-21f9-4e2e-8b88-d1e600a29857</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152400</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 158.2
+Attr ID: DU-0152400
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ed1a953f-21f9-4e2e-8b88-d1e600a29857</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68806600000001,41.771,0 -89.688112,41.771016,0 -89.688222,41.771021,0 -89.688221,41.771301,0 -89.68823,41.771334,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152410</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 55.49
+Attr ID: DU-0152410
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 34ca3092-dd33-4e0c-a5c0-d71147b293fc</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152410</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 55.49
+Attr ID: DU-0152410
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 34ca3092-dd33-4e0c-a5c0-d71147b293fc</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688051,41.773118,0 -89.688254,41.773128,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152420</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 58.37
+Attr ID: DU-0152420
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7406f226-f902-4ebb-ac35-429df6bb8120</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152420</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 58.37
+Attr ID: DU-0152420
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 7406f226-f902-4ebb-ac35-429df6bb8120</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.688018,41.775969,0 -89.688232,41.775968,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152430</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1367.86
+Attr ID: DU-0152430
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 41d0de45-79da-42c3-870d-830ec3972834</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152430</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1367.86
+Attr ID: DU-0152430
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 41d0de45-79da-42c3-870d-830ec3972834</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68802700000001,41.776412,0 -89.68876,41.776418,0 -89.68929300000001,41.776413,0 -89.689323,41.776394,0 -89.689319,41.776008,0 -89.68931600000001,41.775908,0 -89.68931600000001,41.775576,0 -89.68931000000001,41.775476,0 -89.689296,41.774967,0 -89.689267,41.773887,0 -89.689234,41.773619,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152440</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 1331.91
+Attr ID: DU-0152440
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba02c470-a4b9-4767-bdbd-29f00e67f8b6</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152440</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 1331.91
+Attr ID: DU-0152440
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: ba02c470-a4b9-4767-bdbd-29f00e67f8b6</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68943400000001,41.780532,0 -89.68941599999999,41.780522,0 -89.689218,41.780258,0 -89.68873499999999,41.779767,0 -89.688711,41.779388,0 -89.688706,41.778909,0 -89.688683,41.778887,0 -89.687448,41.778888,0 -89.68745699999999,41.777973,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152450</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 676.16
+Attr ID: DU-0152450
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6baa20f3-1517-44a8-b603-30e2943b2566</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152450</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 676.16
+Attr ID: DU-0152450
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6baa20f3-1517-44a8-b603-30e2943b2566</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68745699999999,41.777973,0 -89.687449,41.777989,0 -89.687443,41.778597,0 -89.687433,41.778889,0 -89.687444,41.778894,0 -89.688671,41.778892,0 -89.688683,41.778887,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152460</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 662.22
+Attr ID: DU-0152460
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cdfc2353-9796-4f51-af0c-ac5a6749a2a7</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152460</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 662.22
+Attr ID: DU-0152460
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: cdfc2353-9796-4f51-af0c-ac5a6749a2a7</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68943400000001,41.780532,0 -89.68922999999999,41.780252,0 -89.68874599999999,41.779764,0 -89.688722,41.779398,0 -89.688714,41.778901,0 -89.688683,41.778887,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152500</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 657.94
+Attr ID: DU-0152500
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 611bf3c9-787e-4d01-aeb8-5cef2907b8af</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152500</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 657.94
+Attr ID: DU-0152500
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 611bf3c9-787e-4d01-aeb8-5cef2907b8af</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69562999999999,41.767631,0 -89.693438,41.766878,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152510</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 512.04
+Attr ID: DU-0152510
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 76559dd3-3ea8-41bb-8c64-b4bc9788e2f9</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152510</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 512.04
+Attr ID: DU-0152510
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 76559dd3-3ea8-41bb-8c64-b4bc9788e2f9</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.725078,41.772551,0 -89.723201,41.772537,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152520</name>
+					<description>Duct Configuration: 1
+Name: Duct
+Total Length: 218.19
+Attr ID: DU-0152520
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4f028d0b-1c65-43ff-8574-f894bfd41851</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152520</value>
+						</Data>
+						<Data name="description">
+							<value>Duct Configuration: 1
+Name: Duct
+Total Length: 218.19
+Attr ID: DU-0152520
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 4f028d0b-1c65-43ff-8574-f894bfd41851</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.69014199999999,41.766538,0 -89.689584,41.766536,0 -89.689587,41.766355,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152560</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 1471.88
+Attr ID: DU-0152560
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2a29ce54-9947-4d01-bd4f-4cbb86a8af16</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152560</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 1471.88
+Attr ID: DU-0152560
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 2a29ce54-9947-4d01-bd4f-4cbb86a8af16</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.72506300000001,41.772311,0 -89.727952,41.772308,0 -89.728019,41.772284,0 -89.72824900000001,41.772282,0 -89.728335,41.772312,0 -89.730368,41.77229,0 -89.730433,41.772263,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152590</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 404.07
+Attr ID: DU-0152590
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b2ea185-fb9b-43ac-9c61-8a4a402bfc2b</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152590</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 404.07
+Attr ID: DU-0152590
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 6b2ea185-fb9b-43ac-9c61-8a4a402bfc2b</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.711209,41.771898,0 -89.71187399999999,41.771993,0 -89.71266900000001,41.772084,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152610</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 98.57
+Attr ID: DU-0152610
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a2b8bba7-dc2a-425f-9c3b-804dc302f48a</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152610</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 98.57
+Attr ID: DU-0152610
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a2b8bba7-dc2a-425f-9c3b-804dc302f48a</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.708786,41.771732,0 -89.708798,41.77171,0 -89.70881300000001,41.771486,0 -89.70880699999999,41.771464,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152650</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 71.81
+Attr ID: DU-0152650
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f72079d9-3473-425f-b4bc-7b251b13f4b9</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152650</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 71.81
+Attr ID: DU-0152650
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: f72079d9-3473-425f-b4bc-7b251b13f4b9</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.675875,41.766001,0 -89.675837,41.766196,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152660</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 786.62
+Attr ID: DU-0152660
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a8b75a31-3c1b-413b-b4e1-31c0ee31a924</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152660</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 786.62
+Attr ID: DU-0152660
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: a8b75a31-3c1b-413b-b4e1-31c0ee31a924</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.68806600000001,41.771,0 -89.68741900000001,41.771006,0 -89.687437,41.771604,0 -89.687431,41.772156,0 -89.687437,41.772448,0 -89.687747,41.772445,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>DU-0152830</name>
+					<description>Name: Duct
+Duct Configuration: 1
+Total Length: 285.72
+Attr ID: DU-0152830
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3626d0e5-6eac-4b1c-b665-202d32fbca29</description>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<ExtendedData>
+						<Data name="name">
+							<value>DU-0152830</value>
+						</Data>
+						<Data name="description">
+							<value>Name: Duct
+Duct Configuration: 1
+Total Length: 285.72
+Attr ID: DU-0152830
+Outer Diameter: 
+Inner Diameter: 
+Material Type: 
+Owner: 
+Note: 
+Depth: 
+Width: 
+Input Length: 
+project_name: Illinois - Final
+plan_name: Rock Falls
+vetro_id: 3626d0e5-6eac-4b1c-b665-202d32fbca29</value>
+						</Data>
+					</ExtendedData>
+					<LineString>
+						<coordinates>
+							-89.689595,41.781737,0 -89.68951,41.781715,0 -89.68871900000001,41.782119,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

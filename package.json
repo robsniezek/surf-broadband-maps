@@ -1,0 +1,19 @@
+{
+  "name": "surf-broadband-maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsniezek/surf-broadband-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsniezek/surf-broadband-maps/issues"
+  },
+  "homepage": "https://github.com/robsniezek/surf-broadband-maps#readme",
+  "description": ""
+}

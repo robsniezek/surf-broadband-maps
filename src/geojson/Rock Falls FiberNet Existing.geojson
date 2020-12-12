@@ -1,0 +1,6995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697348,
+            41.714625,
+            0
+          ],
+          [
+            -89.697168,
+            41.714439,
+            0
+          ],
+          [
+            -89.697152,
+            41.713309,
+            0
+          ],
+          [
+            -89.697123,
+            41.713235,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098990",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 523.61\nAttr ID: DU-0098990\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2429f86e-c6a6-42a2-ba3c-c59bd38981c0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697123,
+            41.713235,
+            0
+          ],
+          [
+            -89.696465,
+            41.713121,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099020",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 184.4\nAttr ID: DU-0099020\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8cbc403b-ab53-4c00-b292-c4517907a85f",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.695401,
+            41.713092,
+            0
+          ],
+          [
+            -89.695642,
+            41.713213,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099040",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 79.21\nAttr ID: DU-0099040\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 3ca7e61c-0e61-42d0-942c-29a4f66a949b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689947,
+            41.710602,
+            0
+          ],
+          [
+            -89.69012,
+            41.710674,
+            0
+          ],
+          [
+            -89.690403,
+            41.71075,
+            0
+          ],
+          [
+            -89.69089,
+            41.710686,
+            0
+          ],
+          [
+            -89.691133,
+            41.710627,
+            0
+          ],
+          [
+            -89.691245,
+            41.710597,
+            0
+          ],
+          [
+            -89.691366,
+            41.710452,
+            0
+          ],
+          [
+            -89.69155,
+            41.71038,
+            0
+          ],
+          [
+            -89.691807,
+            41.710253,
+            0
+          ],
+          [
+            -89.692069,
+            41.710102,
+            0
+          ],
+          [
+            -89.692556,
+            41.710038,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098900",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 801.66\nAttr ID: DU-0098900\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: d7699b26-726b-4ac3-b19a-047148f7f1e7",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689947,
+            41.710602,
+            0
+          ],
+          [
+            -89.6899,
+            41.712206,
+            0
+          ],
+          [
+            -89.689898,
+            41.713645,
+            0
+          ],
+          [
+            -89.689892,
+            41.714258,
+            0
+          ],
+          [
+            -89.689921,
+            41.714587,
+            0
+          ],
+          [
+            -89.690013,
+            41.714633,
+            0
+          ],
+          [
+            -89.692391,
+            41.714632,
+            0
+          ],
+          [
+            -89.693311,
+            41.714641,
+            0
+          ],
+          [
+            -89.694235,
+            41.714637,
+            0
+          ],
+          [
+            -89.695139,
+            41.714637,
+            0
+          ],
+          [
+            -89.696457,
+            41.714629,
+            0
+          ],
+          [
+            -89.697348,
+            41.714625,
+            0
+          ],
+          [
+            -89.698664,
+            41.714636,
+            0
+          ],
+          [
+            -89.698683,
+            41.714708,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098910",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 3871.52\nAttr ID: DU-0098910\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: eea79ada-3250-488c-91e4-8367f4596784",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689898,
+            41.713645,
+            0
+          ],
+          [
+            -89.689725,
+            41.713672,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098920",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 48.25\nAttr ID: DU-0098920\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 933989b7-5555-4e96-89a8-851419d0c019",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6899,
+            41.712206,
+            0
+          ],
+          [
+            -89.688862,
+            41.712182,
+            0
+          ],
+          [
+            -89.687946,
+            41.712176,
+            0
+          ],
+          [
+            -89.687788,
+            41.712194,
+            0
+          ],
+          [
+            -89.688107,
+            41.712052,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098930",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 678.61\nAttr ID: DU-0098930\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 11debb00-eca9-4631-8643-88f2465ea6d2",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688862,
+            41.712182,
+            0
+          ],
+          [
+            -89.688879,
+            41.711619,
+            0
+          ],
+          [
+            -89.688884,
+            41.710689,
+            0
+          ],
+          [
+            -89.688797,
+            41.710681,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098940",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 568.03\nAttr ID: DU-0098940\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: fd02eb18-8f0c-4575-9808-cd6ad2d07d1e",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689892,
+            41.714258,
+            0
+          ],
+          [
+            -89.689572,
+            41.714178,
+            0
+          ],
+          [
+            -89.689047,
+            41.714203,
+            0
+          ],
+          [
+            -89.687783,
+            41.71421,
+            0
+          ],
+          [
+            -89.686587,
+            41.714215,
+            0
+          ],
+          [
+            -89.685716,
+            41.714226,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098950",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1145.26\nAttr ID: DU-0098950\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 52ad6ddf-186e-4186-8244-d02524f594a6",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.686587,
+            41.714215,
+            0
+          ],
+          [
+            -89.686579,
+            41.714285,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098960",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 25.6\nAttr ID: DU-0098960\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 849ca3bb-1386-48de-8fa6-d33046af3e10",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.687783,
+            41.71421,
+            0
+          ],
+          [
+            -89.687789,
+            41.714279,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098970",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 25.2\nAttr ID: DU-0098970\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 49f438bd-239e-4321-8e26-6c250844090c",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689047,
+            41.714203,
+            0
+          ],
+          [
+            -89.689054,
+            41.714269,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0098980",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 24.13\nAttr ID: DU-0098980\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: c8c7611c-fbd0-4248-a892-a567e4b8e30f",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697123,
+            41.713235,
+            0
+          ],
+          [
+            -89.697342,
+            41.713122,
+            0
+          ],
+          [
+            -89.697994,
+            41.713217,
+            0
+          ],
+          [
+            -89.698414,
+            41.712937,
+            0
+          ],
+          [
+            -89.698468,
+            41.712011,
+            0
+          ],
+          [
+            -89.698325,
+            41.71203,
+            0
+          ],
+          [
+            -89.698316,
+            41.711828,
+            0
+          ],
+          [
+            -89.698219,
+            41.711708,
+            0
+          ],
+          [
+            -89.698158,
+            41.711543,
+            0
+          ],
+          [
+            -89.697865,
+            41.711656,
+            0
+          ],
+          [
+            -89.697028,
+            41.711648,
+            0
+          ],
+          [
+            -89.696871,
+            41.711547,
+            0
+          ],
+          [
+            -89.695562,
+            41.711558,
+            0
+          ],
+          [
+            -89.695948,
+            41.71165,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099000",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1815.09\nAttr ID: DU-0099000\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 7797cdc6-e8b7-4ceb-8dac-fc849553d61e",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.698158,
+            41.711543,
+            0
+          ],
+          [
+            -89.698289,
+            41.711227,
+            0
+          ],
+          [
+            -89.698651,
+            41.710801,
+            0
+          ],
+          [
+            -89.698399,
+            41.710656,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099010",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 391.36\nAttr ID: DU-0099010\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 0bc73adb-8df0-4fd8-aa1f-0400ae8c30f1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697123,
+            41.713235,
+            0
+          ],
+          [
+            -89.696374,
+            41.713233,
+            0
+          ],
+          [
+            -89.695642,
+            41.713213,
+            0
+          ],
+          [
+            -89.695178,
+            41.713181,
+            0
+          ],
+          [
+            -89.694824,
+            41.713097,
+            0
+          ],
+          [
+            -89.694387,
+            41.713069,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099030",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 752.87\nAttr ID: DU-0099030\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8b9b0420-6ef3-4636-a23b-aa8dedfa3b1e",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.694387,
+            41.713069,
+            0
+          ],
+          [
+            -89.693756,
+            41.713077,
+            0
+          ],
+          [
+            -89.693509,
+            41.713105,
+            0
+          ],
+          [
+            -89.693268,
+            41.713129,
+            0
+          ],
+          [
+            -89.693096,
+            41.712981,
+            0
+          ],
+          [
+            -89.693149,
+            41.712662,
+            0
+          ],
+          [
+            -89.693161,
+            41.712216,
+            0
+          ],
+          [
+            -89.693295,
+            41.711956,
+            0
+          ],
+          [
+            -89.693397,
+            41.711861,
+            0
+          ],
+          [
+            -89.69425,
+            41.711243,
+            0
+          ],
+          [
+            -89.69477,
+            41.710839,
+            0
+          ],
+          [
+            -89.694845,
+            41.710374,
+            0
+          ],
+          [
+            -89.694758,
+            41.70995,
+            0
+          ],
+          [
+            -89.6947,
+            41.709665,
+            0
+          ],
+          [
+            -89.69494,
+            41.709204,
+            0
+          ],
+          [
+            -89.69499,
+            41.708877,
+            0
+          ],
+          [
+            -89.695103,
+            41.709157,
+            0
+          ],
+          [
+            -89.695522,
+            41.709186,
+            0
+          ],
+          [
+            -89.696834,
+            41.709182,
+            0
+          ],
+          [
+            -89.697989,
+            41.709181,
+            0
+          ],
+          [
+            -89.69819,
+            41.709105,
+            0
+          ],
+          [
+            -89.69845,
+            41.708824,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099050",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 3146.09\nAttr ID: DU-0099050\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: d0ddebf6-162f-4316-9c5b-c3749142dbf9",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.69819,
+            41.709105,
+            0
+          ],
+          [
+            -89.698334,
+            41.709153,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099080",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 43.03\nAttr ID: DU-0099080\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ba51dc3e-f8a7-446e-a63d-4d1de0ba8bf5",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.696834,
+            41.709182,
+            0
+          ],
+          [
+            -89.696802,
+            41.709274,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099090",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 34.64\nAttr ID: DU-0099090\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 831b8151-09b0-48d4-9e69-fe422d24dbd1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.694758,
+            41.70995,
+            0
+          ],
+          [
+            -89.694884,
+            41.709946,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099100",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 34.44\nAttr ID: DU-0099100\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 604116a6-918f-4afd-a8fe-b953d0df8038",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.693397,
+            41.711861,
+            0
+          ],
+          [
+            -89.693686,
+            41.711767,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099110",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 86.02\nAttr ID: DU-0099110\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 5f76b234-a522-42ae-a1fd-c032622a51ee",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.694095,
+            41.712975,
+            0
+          ],
+          [
+            -89.694387,
+            41.713069,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0099120",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 86.77\nAttr ID: DU-0099120\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 9cc2612b-7484-4e37-8373-68d7b9d9297f",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.717416,
+            41.771774,
+            0
+          ],
+          [
+            -89.717,
+            41.772182,
+            0
+          ],
+          [
+            -89.716607,
+            41.772173,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150270",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 294.29\nAttr ID: DU-0150270\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: cdbefa4d-dea3-4ce3-8e57-0c54403800c1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.716721,
+            41.772622,
+            0
+          ],
+          [
+            -89.716354,
+            41.772622,
+            0
+          ],
+          [
+            -89.716607,
+            41.772173,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150280",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 277.69\nAttr ID: DU-0150280\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 5289968e-a068-40bc-885a-5f52dca3cf9d",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.712669,
+            41.772084,
+            0
+          ],
+          [
+            -89.71317,
+            41.772148,
+            0
+          ],
+          [
+            -89.713606,
+            41.772177,
+            0
+          ],
+          [
+            -89.71442,
+            41.772248,
+            0
+          ],
+          [
+            -89.716061,
+            41.772276,
+            0
+          ],
+          [
+            -89.716317,
+            41.772275,
+            0
+          ],
+          [
+            -89.716525,
+            41.77224,
+            0
+          ],
+          [
+            -89.716607,
+            41.772173,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150290",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1090.46\nAttr ID: DU-0150290\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2e58945f-4fbc-4462-b6eb-15dc0445f832",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.712669,
+            41.772084,
+            0
+          ],
+          [
+            -89.712643,
+            41.77209,
+            0
+          ],
+          [
+            -89.711873,
+            41.772002,
+            0
+          ],
+          [
+            -89.710985,
+            41.771879,
+            0
+          ],
+          [
+            -89.710129,
+            41.771746,
+            0
+          ],
+          [
+            -89.710118,
+            41.771738,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150320",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 708.92\nAttr ID: DU-0150320\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 847d2ce5-cb18-4ba5-ab3d-b13d6f8dfe24",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.710558,
+            41.771803,
+            0
+          ],
+          [
+            -89.710133,
+            41.77174,
+            0
+          ],
+          [
+            -89.710118,
+            41.771738,
+            0
+          ],
+          [
+            -89.710112,
+            41.771732,
+            0
+          ],
+          [
+            -89.709717,
+            41.771656,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150350",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 236.33\nAttr ID: DU-0150350\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 500a3206-d360-4f44-863f-f6795dec9449",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.741591,
+            41.772496,
+            0
+          ],
+          [
+            -89.740646,
+            41.77249,
+            0
+          ],
+          [
+            -89.739102,
+            41.772496,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150380",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 678.98\nAttr ID: DU-0150380\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8bc53a50-a09d-436b-8209-0b6a53e615f4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.739271,
+            41.772215,
+            0
+          ],
+          [
+            -89.740392,
+            41.772218,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150390",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 305.8\nAttr ID: DU-0150390\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 69594ded-bee4-4ede-9ebd-96ecb689e52b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.725897,
+            41.772288,
+            0
+          ],
+          [
+            -89.725479,
+            41.772294,
+            0
+          ],
+          [
+            -89.725092,
+            41.772298,
+            0
+          ],
+          [
+            -89.725063,
+            41.772311,
+            0
+          ],
+          [
+            -89.725081,
+            41.772323,
+            0
+          ],
+          [
+            -89.72509,
+            41.772537,
+            0
+          ],
+          [
+            -89.725078,
+            41.772551,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150410",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 319.5\nAttr ID: DU-0150410\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 64cb9a6d-8b21-4688-9021-3b207a43954a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.725063,
+            41.772311,
+            0
+          ],
+          [
+            -89.723895,
+            41.772327,
+            0
+          ],
+          [
+            -89.723325,
+            41.772328,
+            0
+          ],
+          [
+            -89.723314,
+            41.771622,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150420",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 731.44\nAttr ID: DU-0150420\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 82d008bd-4a20-4ca6-ac91-3a6eb16dc64c",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.710118,
+            41.771738,
+            0
+          ],
+          [
+            -89.710103,
+            41.771741,
+            0
+          ],
+          [
+            -89.708914,
+            41.771521,
+            0
+          ],
+          [
+            -89.708831,
+            41.771486,
+            0
+          ],
+          [
+            -89.708807,
+            41.771464,
+            0
+          ],
+          [
+            -89.708786,
+            41.771732,
+            0
+          ],
+          [
+            -89.706596,
+            41.771202,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150450",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1100.36\nAttr ID: DU-0150450\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2b3cd96d-d014-43e7-bf4a-217fa93123a0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.706596,
+            41.771202,
+            0
+          ],
+          [
+            -89.705531,
+            41.770914,
+            0
+          ],
+          [
+            -89.7054,
+            41.770954,
+            0
+          ],
+          [
+            -89.705287,
+            41.771246,
+            0
+          ],
+          [
+            -89.705375,
+            41.771432,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150460",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 530.18\nAttr ID: DU-0150460\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 04d69f9f-ac75-4ea7-9f98-30f15d7072ad",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.708807,
+            41.771464,
+            0
+          ],
+          [
+            -89.708412,
+            41.77135,
+            0
+          ],
+          [
+            -89.708524,
+            41.77129,
+            0
+          ],
+          [
+            -89.708543,
+            41.77086,
+            0
+          ],
+          [
+            -89.707977,
+            41.770858,
+            0
+          ],
+          [
+            -89.707124,
+            41.770868,
+            0
+          ],
+          [
+            -89.707105,
+            41.771026,
+            0
+          ],
+          [
+            -89.706891,
+            41.771022,
+            0
+          ],
+          [
+            -89.705601,
+            41.77063,
+            0
+          ],
+          [
+            -89.705534,
+            41.770508,
+            0
+          ],
+          [
+            -89.705501,
+            41.770385,
+            0
+          ],
+          [
+            -89.70555,
+            41.770161,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150490",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1369.44\nAttr ID: DU-0150490\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8c3a5336-9633-479d-997c-51c0160b113a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.70555,
+            41.770161,
+            0
+          ],
+          [
+            -89.70555,
+            41.769877,
+            0
+          ],
+          [
+            -89.704551,
+            41.769868,
+            0
+          ],
+          [
+            -89.703659,
+            41.769829,
+            0
+          ],
+          [
+            -89.703459,
+            41.76974,
+            0
+          ],
+          [
+            -89.703458,
+            41.769279,
+            0
+          ],
+          [
+            -89.702841,
+            41.769284,
+            0
+          ],
+          [
+            -89.70215,
+            41.769291,
+            0
+          ],
+          [
+            -89.701985,
+            41.769289,
+            0
+          ],
+          [
+            -89.70198,
+            41.768681,
+            0
+          ],
+          [
+            -89.70045,
+            41.768697,
+            0
+          ],
+          [
+            -89.700448,
+            41.768359,
+            0
+          ],
+          [
+            -89.700448,
+            41.768092,
+            0
+          ],
+          [
+            -89.699013,
+            41.768057,
+            0
+          ],
+          [
+            -89.699003,
+            41.767918,
+            0
+          ],
+          [
+            -89.69885,
+            41.767913,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150520",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 2596.75\nAttr ID: DU-0150520\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 022b506e-101d-47e0-8806-2d8f4618f292",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.699542,
+            41.768335,
+            0
+          ],
+          [
+            -89.699539,
+            41.768076,
+            0
+          ],
+          [
+            -89.699006,
+            41.768063,
+            0
+          ],
+          [
+            -89.698996,
+            41.767922,
+            0
+          ],
+          [
+            -89.698864,
+            41.767919,
+            0
+          ],
+          [
+            -89.69885,
+            41.767913,
+            0
+          ],
+          [
+            -89.698847,
+            41.767499,
+            0
+          ],
+          [
+            -89.697555,
+            41.767478,
+            0
+          ],
+          [
+            -89.69708,
+            41.767486,
+            0
+          ],
+          [
+            -89.697068,
+            41.767738,
+            0
+          ],
+          [
+            -89.697035,
+            41.767786,
+            0
+          ],
+          [
+            -89.697071,
+            41.767847,
+            0
+          ],
+          [
+            -89.697608,
+            41.768039,
+            0
+          ],
+          [
+            -89.697487,
+            41.768243,
+            0
+          ],
+          [
+            -89.69563,
+            41.767631,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150530",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1897.83\nAttr ID: DU-0150530\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 44d6cc9d-cfeb-4131-8472-cf90995ad14a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697487,
+            41.768243,
+            0
+          ],
+          [
+            -89.697578,
+            41.768305,
+            0
+          ],
+          [
+            -89.697547,
+            41.768694,
+            0
+          ],
+          [
+            -89.697715,
+            41.768713,
+            0
+          ],
+          [
+            -89.697704,
+            41.769579,
+            0
+          ],
+          [
+            -89.697688,
+            41.76966,
+            0
+          ],
+          [
+            -89.697495,
+            41.769771,
+            0
+          ],
+          [
+            -89.697452,
+            41.769877,
+            0
+          ],
+          [
+            -89.697416,
+            41.770038,
+            0
+          ],
+          [
+            -89.697404,
+            41.770188,
+            0
+          ],
+          [
+            -89.697372,
+            41.770224,
+            0
+          ],
+          [
+            -89.697345,
+            41.77036,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150540",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 854.21\nAttr ID: DU-0150540\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: cfd5cb1c-ea95-4fa2-93b7-7aa2005b6bd9",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697385,
+            41.770359,
+            0
+          ],
+          [
+            -89.697394,
+            41.770349,
+            0
+          ],
+          [
+            -89.697425,
+            41.770197,
+            0
+          ],
+          [
+            -89.697888,
+            41.770196,
+            0
+          ],
+          [
+            -89.698689,
+            41.770191,
+            0
+          ],
+          [
+            -89.698679,
+            41.76939,
+            0
+          ],
+          [
+            -89.698685,
+            41.769003,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150550",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 838.17\nAttr ID: DU-0150550\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: a8331796-abb9-45a5-828d-cbd93e51eb81",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.698679,
+            41.76939,
+            0
+          ],
+          [
+            -89.698828,
+            41.769353,
+            0
+          ],
+          [
+            -89.699747,
+            41.769358,
+            0
+          ],
+          [
+            -89.700636,
+            41.769377,
+            0
+          ],
+          [
+            -89.700708,
+            41.769321,
+            0
+          ],
+          [
+            -89.70106,
+            41.769419,
+            0
+          ],
+          [
+            -89.701336,
+            41.769511,
+            0
+          ],
+          [
+            -89.701886,
+            41.769697,
+            0
+          ],
+          [
+            -89.702176,
+            41.769851,
+            0
+          ],
+          [
+            -89.702153,
+            41.769933,
+            0
+          ],
+          [
+            -89.702143,
+            41.770496,
+            0
+          ],
+          [
+            -89.702484,
+            41.770494,
+            0
+          ],
+          [
+            -89.702947,
+            41.770494,
+            0
+          ],
+          [
+            -89.70299,
+            41.770483,
+            0
+          ],
+          [
+            -89.703044,
+            41.770498,
+            0
+          ],
+          [
+            -89.70363,
+            41.7705,
+            0
+          ],
+          [
+            -89.703637,
+            41.77091,
+            0
+          ],
+          [
+            -89.703898,
+            41.770908,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150560",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1874.6\nAttr ID: DU-0150560\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 14a20a5d-0748-4b45-8df1-04e18af2f6d1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697035,
+            41.767786,
+            0
+          ],
+          [
+            -89.696945,
+            41.767809,
+            0
+          ],
+          [
+            -89.695455,
+            41.767311,
+            0
+          ],
+          [
+            -89.693959,
+            41.766813,
+            0
+          ],
+          [
+            -89.693005,
+            41.766502,
+            0
+          ],
+          [
+            -89.691077,
+            41.765843,
+            0
+          ],
+          [
+            -89.691012,
+            41.76573,
+            0
+          ],
+          [
+            -89.691004,
+            41.765396,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150570",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1946.38\nAttr ID: DU-0150570\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: eca99136-582c-4a95-8d6f-12d81b047ea4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.691077,
+            41.765843,
+            0
+          ],
+          [
+            -89.690275,
+            41.76556,
+            0
+          ],
+          [
+            -89.689701,
+            41.765358,
+            0
+          ],
+          [
+            -89.689548,
+            41.765176,
+            0
+          ],
+          [
+            -89.689608,
+            41.76463,
+            0
+          ],
+          [
+            -89.6896,
+            41.763821,
+            0
+          ],
+          [
+            -89.689615,
+            41.762973,
+            0
+          ],
+          [
+            -89.689773,
+            41.762221,
+            0
+          ],
+          [
+            -89.689784,
+            41.762053,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150580",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1635.45\nAttr ID: DU-0150580\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 77eb9ac4-435e-41c4-adf3-5cfb97337fa5",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689784,
+            41.762053,
+            0
+          ],
+          [
+            -89.689794,
+            41.761434,
+            0
+          ],
+          [
+            -89.689807,
+            41.760413,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150590",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 597.65\nAttr ID: DU-0150590\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 25d7e5af-562a-4dd3-9c9f-cce45bbbefef",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689784,
+            41.762053,
+            0
+          ],
+          [
+            -89.689782,
+            41.761417,
+            0
+          ],
+          [
+            -89.689192,
+            41.761482,
+            0
+          ],
+          [
+            -89.689194,
+            41.762307,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150600",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 695.09\nAttr ID: DU-0150600\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 79e923cd-a6b6-423f-9dd2-c019c7ebb1c8",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689608,
+            41.76463,
+            0
+          ],
+          [
+            -89.689238,
+            41.764656,
+            0
+          ],
+          [
+            -89.689137,
+            41.764936,
+            0
+          ],
+          [
+            -89.688925,
+            41.765126,
+            0
+          ],
+          [
+            -89.688547,
+            41.765001,
+            0
+          ],
+          [
+            -89.688381,
+            41.765214,
+            0
+          ],
+          [
+            -89.687623,
+            41.765054,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150610",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 714.75\nAttr ID: DU-0150610\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: e12ccfc6-8977-4109-8855-120d9bb4b5d6",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68222,
+            41.762887,
+            0
+          ],
+          [
+            -89.681809,
+            41.762753,
+            0
+          ],
+          [
+            -89.681626,
+            41.762962,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150620",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 213.37\nAttr ID: DU-0150620\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 6b6fda43-ac4a-4430-ac00-873dad60a990",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688547,
+            41.765001,
+            0
+          ],
+          [
+            -89.682231,
+            41.762899,
+            0
+          ],
+          [
+            -89.68222,
+            41.762887,
+            0
+          ],
+          [
+            -89.682178,
+            41.762885,
+            0
+          ],
+          [
+            -89.679824,
+            41.76208,
+            0
+          ],
+          [
+            -89.679291,
+            41.76191,
+            0
+          ],
+          [
+            -89.678325,
+            41.761587,
+            0
+          ],
+          [
+            -89.675917,
+            41.760788,
+            0
+          ],
+          [
+            -89.674847,
+            41.76042,
+            0
+          ],
+          [
+            -89.673815,
+            41.760101,
+            0
+          ],
+          [
+            -89.672792,
+            41.759768,
+            0
+          ],
+          [
+            -89.67214,
+            41.759538,
+            0
+          ],
+          [
+            -89.671231,
+            41.759244,
+            0
+          ],
+          [
+            -89.670842,
+            41.759143,
+            0
+          ],
+          [
+            -89.670236,
+            41.758982,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150630",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 5458.7\nAttr ID: DU-0150630\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 3598367e-8f1c-413f-849b-c4bd9edba42d",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.671231,
+            41.759244,
+            0
+          ],
+          [
+            -89.671111,
+            41.759481,
+            0
+          ],
+          [
+            -89.671523,
+            41.759624,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150640",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 216.26\nAttr ID: DU-0150640\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ccb8e1d5-1932-4c08-9697-3f0f48093fb3",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.671231,
+            41.759244,
+            0
+          ],
+          [
+            -89.671097,
+            41.759474,
+            0
+          ],
+          [
+            -89.670183,
+            41.759223,
+            0
+          ],
+          [
+            -89.669825,
+            41.759133,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150650",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 460.1\nAttr ID: DU-0150650\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 991a1df8-4498-405f-bfa7-4d85578bcc24",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.679291,
+            41.76191,
+            0
+          ],
+          [
+            -89.679307,
+            41.76192,
+            0
+          ],
+          [
+            -89.679816,
+            41.762086,
+            0
+          ],
+          [
+            -89.679817,
+            41.762363,
+            0
+          ],
+          [
+            -89.680678,
+            41.762613,
+            0
+          ],
+          [
+            -89.680718,
+            41.763163,
+            0
+          ],
+          [
+            -89.680681,
+            41.763418,
+            0
+          ],
+          [
+            -89.680517,
+            41.764014,
+            0
+          ],
+          [
+            -89.680472,
+            41.764141,
+            0
+          ],
+          [
+            -89.680469,
+            41.765338,
+            0
+          ],
+          [
+            -89.682213,
+            41.765342,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150660",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1985.84\nAttr ID: DU-0150660\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 23b2c5d5-b406-4562-bb3e-51109770cc9a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.680517,
+            41.764014,
+            0
+          ],
+          [
+            -89.680685,
+            41.764001,
+            0
+          ],
+          [
+            -89.681343,
+            41.764007,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150670",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 225.61\nAttr ID: DU-0150670\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 9514a028-1658-42f6-a95f-18415aeddd70",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.674847,
+            41.76042,
+            0
+          ],
+          [
+            -89.674712,
+            41.760679,
+            0
+          ],
+          [
+            -89.675018,
+            41.760785,
+            0
+          ],
+          [
+            -89.675061,
+            41.760965,
+            0
+          ],
+          [
+            -89.675045,
+            41.761331,
+            0
+          ],
+          [
+            -89.675042,
+            41.76274,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150680",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 906.81\nAttr ID: DU-0150680\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2dc530f2-74da-4825-972b-ddf4ba352592",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675392,
+            41.762221,
+            0
+          ],
+          [
+            -89.675356,
+            41.762784,
+            0
+          ],
+          [
+            -89.675355,
+            41.76368,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150690",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 531.89\nAttr ID: DU-0150690\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: b54a436a-81e0-4f56-8d8d-094bd57e6ac9",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675042,
+            41.76274,
+            0
+          ],
+          [
+            -89.675025,
+            41.7643,
+            0
+          ],
+          [
+            -89.675252,
+            41.764325,
+            0
+          ],
+          [
+            -89.677456,
+            41.764303,
+            0
+          ],
+          [
+            -89.677465,
+            41.764132,
+            0
+          ],
+          [
+            -89.677647,
+            41.76413,
+            0
+          ],
+          [
+            -89.678661,
+            41.764113,
+            0
+          ],
+          [
+            -89.678661,
+            41.764314,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150700",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1694.4\nAttr ID: DU-0150700\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 82fbaee3-4975-46d1-bdb7-7146f8f2e488",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675025,
+            41.7643,
+            0
+          ],
+          [
+            -89.675034,
+            41.765902,
+            0
+          ],
+          [
+            -89.674991,
+            41.766244,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150710",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 708.95\nAttr ID: DU-0150710\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 17ddce87-de4a-4bb5-9c59-e56fa07900ee",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.673366,
+            41.766212,
+            0
+          ],
+          [
+            -89.671526,
+            41.76621,
+            0
+          ],
+          [
+            -89.670652,
+            41.766222,
+            0
+          ],
+          [
+            -89.669517,
+            41.76622,
+            0
+          ],
+          [
+            -89.669509,
+            41.766062,
+            0
+          ],
+          [
+            -89.668307,
+            41.766066,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150720",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1435.64\nAttr ID: DU-0150720\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 67bd3945-d935-4d82-9027-453b36e77574",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.671526,
+            41.76621,
+            0
+          ],
+          [
+            -89.671081,
+            41.766346,
+            0
+          ],
+          [
+            -89.671059,
+            41.766543,
+            0
+          ],
+          [
+            -89.671065,
+            41.768355,
+            0
+          ],
+          [
+            -89.671153,
+            41.768409,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150730",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 894.5\nAttr ID: DU-0150730\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: abc14fab-fa44-4cbe-bb8b-74dbc20d74d1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.674991,
+            41.766244,
+            0
+          ],
+          [
+            -89.675421,
+            41.766244,
+            0
+          ],
+          [
+            -89.675447,
+            41.766204,
+            0
+          ],
+          [
+            -89.675856,
+            41.766186,
+            0
+          ],
+          [
+            -89.676845,
+            41.766193,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150740",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 515.12\nAttr ID: DU-0150740\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 1e09cb64-ff88-4d74-ab15-69398eb66a07",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675837,
+            41.766196,
+            0
+          ],
+          [
+            -89.676828,
+            41.766199,
+            0
+          ],
+          [
+            -89.676845,
+            41.766193,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150750",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 275.49\nAttr ID: DU-0150750\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 87ed7e80-7f83-49b9-bff4-617a8f702747",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.677895,
+            41.766026,
+            0
+          ],
+          [
+            -89.678265,
+            41.766029,
+            0
+          ],
+          [
+            -89.679622,
+            41.766029,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150760",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 471.15\nAttr ID: DU-0150760\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 1b2504a7-9fe7-4b38-94f1-2c4706b7559a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.674991,
+            41.766244,
+            0
+          ],
+          [
+            -89.675057,
+            41.766467,
+            0
+          ],
+          [
+            -89.675069,
+            41.767116,
+            0
+          ],
+          [
+            -89.674688,
+            41.767197,
+            0
+          ],
+          [
+            -89.674699,
+            41.767701,
+            0
+          ],
+          [
+            -89.674431,
+            41.767713,
+            0
+          ],
+          [
+            -89.674522,
+            41.767805,
+            0
+          ],
+          [
+            -89.674951,
+            41.767813,
+            0
+          ],
+          [
+            -89.674954,
+            41.767587,
+            0
+          ],
+          [
+            -89.675283,
+            41.767585,
+            0
+          ],
+          [
+            -89.67534,
+            41.768181,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150770",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1233.36\nAttr ID: DU-0150770\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 91e4b5e2-a9c5-41f1-9c6f-462c7a4a8931",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.674951,
+            41.767813,
+            0
+          ],
+          [
+            -89.674976,
+            41.767852,
+            0
+          ],
+          [
+            -89.675006,
+            41.769307,
+            0
+          ],
+          [
+            -89.674995,
+            41.770453,
+            0
+          ],
+          [
+            -89.676139,
+            41.77047,
+            0
+          ],
+          [
+            -89.676702,
+            41.770444,
+            0
+          ],
+          [
+            -89.677352,
+            41.770449,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150780",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1606.98\nAttr ID: DU-0150780\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: bb263b9f-9d59-4bfc-8756-a50424f784c4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.676139,
+            41.77047,
+            0
+          ],
+          [
+            -89.676311,
+            41.770277,
+            0
+          ],
+          [
+            -89.678427,
+            41.770281,
+            0
+          ],
+          [
+            -89.679176,
+            41.7703,
+            0
+          ],
+          [
+            -89.679444,
+            41.770354,
+            0
+          ],
+          [
+            -89.679481,
+            41.770353,
+            0
+          ],
+          [
+            -89.67939,
+            41.770525,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150790",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1019.45\nAttr ID: DU-0150790\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8b4b34aa-ec23-4be5-b1a8-0394d995f47e",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690142,
+            41.766538,
+            0
+          ],
+          [
+            -89.690418,
+            41.766533,
+            0
+          ],
+          [
+            -89.690491,
+            41.766404,
+            0
+          ],
+          [
+            -89.691032,
+            41.766393,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150820",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 274.02\nAttr ID: DU-0150820\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8a3e3767-c600-4262-9cff-75c287367e7e",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690142,
+            41.766538,
+            0
+          ],
+          [
+            -89.689583,
+            41.766545,
+            0
+          ],
+          [
+            -89.689524,
+            41.766595,
+            0
+          ],
+          [
+            -89.689494,
+            41.768057,
+            0
+          ],
+          [
+            -89.689527,
+            41.767968,
+            0
+          ],
+          [
+            -89.690335,
+            41.767963,
+            0
+          ],
+          [
+            -89.69074,
+            41.767956,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150840",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1074.26\nAttr ID: DU-0150840\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 072637ab-d12f-472e-b299-324001c5c438",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689494,
+            41.768057,
+            0
+          ],
+          [
+            -89.689515,
+            41.76907,
+            0
+          ],
+          [
+            -89.689585,
+            41.768959,
+            0
+          ],
+          [
+            -89.690052,
+            41.76895,
+            0
+          ],
+          [
+            -89.69023,
+            41.768944,
+            0
+          ],
+          [
+            -89.690594,
+            41.768937,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150850",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 689.29\nAttr ID: DU-0150850\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 78252037-9c2f-4a32-ad89-3c9f78e10470",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689515,
+            41.76907,
+            0
+          ],
+          [
+            -89.689529,
+            41.769816,
+            0
+          ],
+          [
+            -89.690024,
+            41.769815,
+            0
+          ],
+          [
+            -89.690209,
+            41.769819,
+            0
+          ],
+          [
+            -89.690597,
+            41.769815,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150860",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 563.25\nAttr ID: DU-0150860\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 35a36283-ad95-461f-a646-d88ab1c31855",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689529,
+            41.769816,
+            0
+          ],
+          [
+            -89.689529,
+            41.770003,
+            0
+          ],
+          [
+            -89.688012,
+            41.76999,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150890",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 482\nAttr ID: DU-0150890\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ec164be2-963f-40bd-a837-0424a2b421d3",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688012,
+            41.76999,
+            0
+          ],
+          [
+            -89.688031,
+            41.769996,
+            0
+          ],
+          [
+            -89.688457,
+            41.77,
+            0
+          ],
+          [
+            -89.688458,
+            41.770095,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150900",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 156.46\nAttr ID: DU-0150900\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 4c05f051-df47-426d-abb4-1fa5aa4de33b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688656,
+            41.769549,
+            0
+          ],
+          [
+            -89.688664,
+            41.769989,
+            0
+          ],
+          [
+            -89.688026,
+            41.769985,
+            0
+          ],
+          [
+            -89.688012,
+            41.76999,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150910",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 338.63\nAttr ID: DU-0150910\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: cc25a206-9d8c-4fb7-8aa6-503f3c71c265",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68868,
+            41.768486,
+            0
+          ],
+          [
+            -89.688657,
+            41.768734,
+            0
+          ],
+          [
+            -89.688654,
+            41.769262,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150920",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 282.99\nAttr ID: DU-0150920\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 54ce41c4-09f9-4a30-8e53-7cd189ee12b0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68868,
+            41.768486,
+            0
+          ],
+          [
+            -89.688676,
+            41.768171,
+            0
+          ],
+          [
+            -89.688673,
+            41.767924,
+            0
+          ],
+          [
+            -89.688669,
+            41.767571,
+            0
+          ],
+          [
+            -89.68868,
+            41.767211,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150930",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 464.66\nAttr ID: DU-0150930\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 5fac065d-5aa2-46f9-815a-14a0bb373eb4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688012,
+            41.76999,
+            0
+          ],
+          [
+            -89.68774,
+            41.769988,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150940",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 74.2\nAttr ID: DU-0150940\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 00e1c5d5-c8ed-4268-b275-c5e7488471f1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688012,
+            41.76999,
+            0
+          ],
+          [
+            -89.688027,
+            41.770018,
+            0
+          ],
+          [
+            -89.688038,
+            41.770894,
+            0
+          ],
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.688248,
+            41.771006,
+            0
+          ],
+          [
+            -89.688238,
+            41.7713,
+            0
+          ],
+          [
+            -89.68823,
+            41.771334,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150950",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 539.04\nAttr ID: DU-0150950\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2b02a37d-7924-4dbb-9bbc-da32940de3de",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.688021,
+            41.770986,
+            0
+          ],
+          [
+            -89.68798,
+            41.770893,
+            0
+          ],
+          [
+            -89.687701,
+            41.770885,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150960",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 125.15\nAttr ID: DU-0150960\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 23b68a75-0c5b-4d05-aee5-965a09022026",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68823,
+            41.771334,
+            0
+          ],
+          [
+            -89.688257,
+            41.771314,
+            0
+          ],
+          [
+            -89.688266,
+            41.771017,
+            0
+          ],
+          [
+            -89.68879,
+            41.77102,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150970",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 261.56\nAttr ID: DU-0150970\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 5cbd0bab-ee43-4fd0-99b7-0066b7009f0c",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68823,
+            41.771334,
+            0
+          ],
+          [
+            -89.688254,
+            41.771978,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150980",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 234.76\nAttr ID: DU-0150980\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: dd144667-a5ad-490c-9375-73ea27a3d4f5",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688257,
+            41.771334,
+            0
+          ],
+          [
+            -89.688275,
+            41.771313,
+            0
+          ],
+          [
+            -89.688279,
+            41.770994,
+            0
+          ],
+          [
+            -89.68809,
+            41.770988,
+            0
+          ],
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.688053,
+            41.772397,
+            0
+          ],
+          [
+            -89.68803,
+            41.772436,
+            0
+          ],
+          [
+            -89.688028,
+            41.773114,
+            0
+          ],
+          [
+            -89.68804,
+            41.774131,
+            0
+          ],
+          [
+            -89.688064,
+            41.774172,
+            0
+          ],
+          [
+            -89.688041,
+            41.7742,
+            0
+          ],
+          [
+            -89.68802,
+            41.774964,
+            0
+          ],
+          [
+            -89.68803,
+            41.775008,
+            0
+          ],
+          [
+            -89.688002,
+            41.775049,
+            0
+          ],
+          [
+            -89.688008,
+            41.776391,
+            0
+          ],
+          [
+            -89.688027,
+            41.776412,
+            0
+          ],
+          [
+            -89.688009,
+            41.776427,
+            0
+          ],
+          [
+            -89.688012,
+            41.776527,
+            0
+          ],
+          [
+            -89.688091,
+            41.776556,
+            0
+          ],
+          [
+            -89.688705,
+            41.776553,
+            0
+          ],
+          [
+            -89.688727,
+            41.776546,
+            0
+          ],
+          [
+            -89.688736,
+            41.776562,
+            0
+          ],
+          [
+            -89.688679,
+            41.778815,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0150990",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 3260.69\nAttr ID: DU-0150990\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 60c0f79a-aba5-4c2f-a611-466b52f2f702",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688053,
+            41.772397,
+            0
+          ],
+          [
+            -89.688051,
+            41.773118,
+            0
+          ],
+          [
+            -89.688064,
+            41.774172,
+            0
+          ],
+          [
+            -89.688043,
+            41.774973,
+            0
+          ],
+          [
+            -89.68803,
+            41.775008,
+            0
+          ],
+          [
+            -89.688017,
+            41.775049,
+            0
+          ],
+          [
+            -89.688012,
+            41.775969,
+            0
+          ],
+          [
+            -89.688019,
+            41.776388,
+            0
+          ],
+          [
+            -89.688027,
+            41.776412,
+            0
+          ],
+          [
+            -89.688022,
+            41.776434,
+            0
+          ],
+          [
+            -89.688025,
+            41.77652,
+            0
+          ],
+          [
+            -89.688097,
+            41.776547,
+            0
+          ],
+          [
+            -89.688727,
+            41.776546,
+            0
+          ],
+          [
+            -89.688743,
+            41.776557,
+            0
+          ],
+          [
+            -89.688698,
+            41.778848,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151000",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 2553.25\nAttr ID: DU-0151000\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ba02941c-461c-478c-80f5-6be83def4fc2",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688249,
+            41.774166,
+            0
+          ],
+          [
+            -89.688064,
+            41.774172,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151010",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 50.51\nAttr ID: DU-0151010\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: f3bb1c4e-f3ad-4167-80c2-145183c46bf6",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68823,
+            41.775002,
+            0
+          ],
+          [
+            -89.68803,
+            41.775008,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151020",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 54.6\nAttr ID: DU-0151020\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2693e33f-1452-4d79-9bed-409adadf56a3",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68803,
+            41.775008,
+            0
+          ],
+          [
+            -89.688018,
+            41.775969,
+            0
+          ],
+          [
+            -89.688027,
+            41.776412,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151030",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 511.65\nAttr ID: DU-0151030\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 616f87c1-f2f3-4c61-882c-e14eb6ae1fb0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688038,
+            41.776553,
+            0
+          ],
+          [
+            -89.688067,
+            41.776539,
+            0
+          ],
+          [
+            -89.688708,
+            41.776541,
+            0
+          ],
+          [
+            -89.688727,
+            41.776546,
+            0
+          ],
+          [
+            -89.68875,
+            41.776551,
+            0
+          ],
+          [
+            -89.688752,
+            41.776821,
+            0
+          ],
+          [
+            -89.688748,
+            41.777397,
+            0
+          ],
+          [
+            -89.688746,
+            41.777514,
+            0
+          ],
+          [
+            -89.688738,
+            41.778049,
+            0
+          ],
+          [
+            -89.688734,
+            41.778319,
+            0
+          ],
+          [
+            -89.68871,
+            41.778861,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151040",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1050.18\nAttr ID: DU-0151040\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: f8be43d9-b4c8-43a8-ba6d-8069eb366e25",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688683,
+            41.778887,
+            0
+          ],
+          [
+            -89.688695,
+            41.778954,
+            0
+          ],
+          [
+            -89.688699,
+            41.779141,
+            0
+          ],
+          [
+            -89.688703,
+            41.779396,
+            0
+          ],
+          [
+            -89.68872,
+            41.779769,
+            0
+          ],
+          [
+            -89.689206,
+            41.780263,
+            0
+          ],
+          [
+            -89.689407,
+            41.780528,
+            0
+          ],
+          [
+            -89.689434,
+            41.780532,
+            0
+          ],
+          [
+            -89.689051,
+            41.780724,
+            0
+          ],
+          [
+            -89.689106,
+            41.78076,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151050",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 809.47\nAttr ID: DU-0151050\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ebca4bba-950d-4614-8d69-1fefbd868324",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689434,
+            41.780532,
+            0
+          ],
+          [
+            -89.690491,
+            41.779998,
+            0
+          ],
+          [
+            -89.690529,
+            41.780069,
+            0
+          ],
+          [
+            -89.691059,
+            41.780657,
+            0
+          ],
+          [
+            -89.691045,
+            41.780719,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151080",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 657.08\nAttr ID: DU-0151080\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 6b174235-9575-4f26-8523-0201ec155a06",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690491,
+            41.779998,
+            0
+          ],
+          [
+            -89.690185,
+            41.779633,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151090",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 157.02\nAttr ID: DU-0151090\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2b12ea68-c47c-4248-96bc-4e2c39a0a8c4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690185,
+            41.779633,
+            0
+          ],
+          [
+            -89.68977,
+            41.779171,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151100",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 202.87\nAttr ID: DU-0151100\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 4ba458da-0c75-4347-866f-c3d95c15f4cf",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690491,
+            41.779998,
+            0
+          ],
+          [
+            -89.690661,
+            41.780175,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151110",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 79.44\nAttr ID: DU-0151110\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: e317fff3-d711-456a-b3c4-4f2cc0d32796",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689674,
+            41.779064,
+            0
+          ],
+          [
+            -89.68977,
+            41.779171,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151300",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 46.97\nAttr ID: DU-0151300\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 9db6a7a9-9bb4-4107-8c08-5ec601d96bc1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.671231,
+            41.759244,
+            0
+          ],
+          [
+            -89.67109,
+            41.759463,
+            0
+          ],
+          [
+            -89.670155,
+            41.759211,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151810",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 359.72\nAttr ID: DU-0151810\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ca5e4338-363d-4a86-b922-2e29aa2fe0dd",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.670247,
+            41.758977,
+            0
+          ],
+          [
+            -89.670236,
+            41.758982,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151830",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 3.51\nAttr ID: DU-0151830\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 87d0656d-3d10-46f1-83ca-f0a87c988a37",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.67088,
+            41.759145,
+            0
+          ],
+          [
+            -89.670842,
+            41.759143,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151840",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 10.39\nAttr ID: DU-0151840\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 7f6bc2f3-e193-401d-8c21-f8e5869bbdf2",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.672196,
+            41.759542,
+            0
+          ],
+          [
+            -89.671252,
+            41.759242,
+            0
+          ],
+          [
+            -89.671231,
+            41.759244,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151850",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 285.58\nAttr ID: DU-0151850\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 1fe5577b-0c7f-491b-a9e8-a2243dbd2ff5",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.673811,
+            41.760091,
+            0
+          ],
+          [
+            -89.674835,
+            41.760407,
+            0
+          ],
+          [
+            -89.674847,
+            41.76042,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151860",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 307.94\nAttr ID: DU-0151860\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 414b1022-1215-462f-983e-150e20385ac0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675374,
+            41.760587,
+            0
+          ],
+          [
+            -89.674865,
+            41.760416,
+            0
+          ],
+          [
+            -89.674847,
+            41.76042,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151870",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 157.34\nAttr ID: DU-0151870\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8a9f4d66-bb56-4eb9-a629-2355fc8f3a75",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.678324,
+            41.761574,
+            0
+          ],
+          [
+            -89.679285,
+            41.761901,
+            0
+          ],
+          [
+            -89.679291,
+            41.76191,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151880",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 291.66\nAttr ID: DU-0151880\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 6ff87091-04ae-4bcf-bf4d-23c69d72a40b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.679809,
+            41.76236,
+            0
+          ],
+          [
+            -89.679808,
+            41.762066,
+            0
+          ],
+          [
+            -89.679767,
+            41.762052,
+            0
+          ],
+          [
+            -89.67931,
+            41.761911,
+            0
+          ],
+          [
+            -89.679291,
+            41.76191,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151890",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 259.48\nAttr ID: DU-0151890\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: a99ce4f8-eb60-447a-88c7-b32fccb0174a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.680695,
+            41.763169,
+            0
+          ],
+          [
+            -89.680668,
+            41.763412,
+            0
+          ],
+          [
+            -89.680581,
+            41.763648,
+            0
+          ],
+          [
+            -89.680509,
+            41.763994,
+            0
+          ],
+          [
+            -89.680517,
+            41.764014,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151910",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 313.28\nAttr ID: DU-0151910\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 693836de-f70e-44a3-b61a-268d164c734a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.680497,
+            41.764015,
+            0
+          ],
+          [
+            -89.680517,
+            41.764014,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151940",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 5.47\nAttr ID: DU-0151940\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 35d4f91a-d5d8-4f61-8684-f1ca2bdb77ff",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.680456,
+            41.764992,
+            0
+          ],
+          [
+            -89.680458,
+            41.765322,
+            0
+          ],
+          [
+            -89.680469,
+            41.765338,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151950",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 126.81\nAttr ID: DU-0151950\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 1f284179-5975-40ad-9c73-a76aed575914",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.680517,
+            41.764014,
+            0
+          ],
+          [
+            -89.680499,
+            41.764029,
+            0
+          ],
+          [
+            -89.680461,
+            41.764143,
+            0
+          ],
+          [
+            -89.680443,
+            41.764375,
+            0
+          ],
+          [
+            -89.680446,
+            41.764621,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151960",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 224.49\nAttr ID: DU-0151960\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ac2191e5-0549-476c-a12b-37ca534cb3b4",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690129,
+            41.762221,
+            0
+          ],
+          [
+            -89.689787,
+            41.762222,
+            0
+          ],
+          [
+            -89.689791,
+            41.762058,
+            0
+          ],
+          [
+            -89.689784,
+            41.762053,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0151970",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 155.72\nAttr ID: DU-0151970\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 7b123968-c475-4a59-bb1f-1b741f7d4992",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.693972,
+            41.766779,
+            0
+          ],
+          [
+            -89.693925,
+            41.766797,
+            0
+          ],
+          [
+            -89.693022,
+            41.766502,
+            0
+          ],
+          [
+            -89.693005,
+            41.766502,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152010",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 287.82\nAttr ID: DU-0152010\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 1b4309ba-0018-4157-b9a6-084a0813562b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697035,
+            41.767786,
+            0
+          ],
+          [
+            -89.697045,
+            41.767789,
+            0
+          ],
+          [
+            -89.697078,
+            41.767845,
+            0
+          ],
+          [
+            -89.697619,
+            41.768037,
+            0
+          ],
+          [
+            -89.6975,
+            41.768238,
+            0
+          ],
+          [
+            -89.697487,
+            41.768243,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152020",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 272.68\nAttr ID: DU-0152020\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 31cfb483-a9a0-4c2f-8289-c96ff4336a53",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697554,
+            41.767484,
+            0
+          ],
+          [
+            -89.697088,
+            41.76749,
+            0
+          ],
+          [
+            -89.697074,
+            41.767739,
+            0
+          ],
+          [
+            -89.697045,
+            41.767782,
+            0
+          ],
+          [
+            -89.697035,
+            41.767786,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152030",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 238.61\nAttr ID: DU-0152030\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 66324aee-7b62-4b21-8868-e9b3ee6d492d",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.701436,
+            41.768679,
+            0
+          ],
+          [
+            -89.701989,
+            41.768674,
+            0
+          ],
+          [
+            -89.701997,
+            41.76928,
+            0
+          ],
+          [
+            -89.702127,
+            41.76928,
+            0
+          ],
+          [
+            -89.70215,
+            41.769291,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152040",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 414.62\nAttr ID: DU-0152040\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 7f0165a7-7a95-4457-bc70-f9fe9cdfd344",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.70215,
+            41.769291,
+            0
+          ],
+          [
+            -89.702183,
+            41.76928,
+            0
+          ],
+          [
+            -89.702829,
+            41.769277,
+            0
+          ],
+          [
+            -89.702841,
+            41.769284,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152050",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 190.24\nAttr ID: DU-0152050\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 62e65c0d-cd71-46f1-8e8e-27644f34ffec",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.70555,
+            41.770161,
+            0
+          ],
+          [
+            -89.70554,
+            41.770152,
+            0
+          ],
+          [
+            -89.705539,
+            41.769882,
+            0
+          ],
+          [
+            -89.704568,
+            41.769874,
+            0
+          ],
+          [
+            -89.704551,
+            41.769868,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152060",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 372.68\nAttr ID: DU-0152060\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 9d2ff2ea-ffc8-4919-ada4-a0c01e579214",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.707977,
+            41.770858,
+            0
+          ],
+          [
+            -89.707962,
+            41.77085,
+            0
+          ],
+          [
+            -89.707115,
+            41.770861,
+            0
+          ],
+          [
+            -89.707096,
+            41.771018,
+            0
+          ],
+          [
+            -89.706905,
+            41.771015,
+            0
+          ],
+          [
+            -89.706893,
+            41.771005,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152070",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 350.57\nAttr ID: DU-0152070\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: aa53a34c-b394-4297-bdf5-d9d7813d4344",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.708786,
+            41.771732,
+            0
+          ],
+          [
+            -89.709683,
+            41.771916,
+            0
+          ],
+          [
+            -89.710543,
+            41.772068,
+            0
+          ],
+          [
+            -89.712483,
+            41.772334,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152090",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1032.77\nAttr ID: DU-0152090\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: e69811dc-4fcc-4e27-bf22-6f0a03193760",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.708074,
+            41.771592,
+            0
+          ],
+          [
+            -89.707876,
+            41.771523,
+            0
+          ],
+          [
+            -89.706607,
+            41.771211,
+            0
+          ],
+          [
+            -89.706596,
+            41.771202,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152100",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 428.39\nAttr ID: DU-0152100\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ac6b57a6-bf14-4f62-b893-5207095b1ab1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.708807,
+            41.771464,
+            0
+          ],
+          [
+            -89.708916,
+            41.771516,
+            0
+          ],
+          [
+            -89.710118,
+            41.771738,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152120",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 372.98\nAttr ID: DU-0152120\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: c7677860-5f9b-463c-a56f-51c22b538b09",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.716607,
+            41.772173,
+            0
+          ],
+          [
+            -89.716613,
+            41.772195,
+            0
+          ],
+          [
+            -89.716378,
+            41.772605,
+            0
+          ],
+          [
+            -89.716354,
+            41.772622,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152130",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 179.77\nAttr ID: DU-0152130\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 910f29dc-e739-4141-8625-0eb74648a32d",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.725078,
+            41.772551,
+            0
+          ],
+          [
+            -89.725063,
+            41.772311,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152150",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 87.55\nAttr ID: DU-0152150\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 5659a5a4-5939-4efd-bbf0-a09aabe72560",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.737571,
+            41.772233,
+            0
+          ],
+          [
+            -89.738785,
+            41.772216,
+            0
+          ],
+          [
+            -89.739271,
+            41.772215,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152160",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 463.8\nAttr ID: DU-0152160\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: d2cb3aa6-71d7-434b-b252-3fe07c0be19a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.739271,
+            41.772215,
+            0
+          ],
+          [
+            -89.739102,
+            41.772496,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152170",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 112.3\nAttr ID: DU-0152170\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 06387aaf-f58b-46c3-af7b-be21185d40ae",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.741591,
+            41.772496,
+            0
+          ],
+          [
+            -89.741571,
+            41.772505,
+            0
+          ],
+          [
+            -89.740666,
+            41.772515,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152190",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 253.26\nAttr ID: DU-0152190\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 8daba323-ea69-4006-ab90-0fa6bc18e6a2",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.70299,
+            41.770483,
+            0
+          ],
+          [
+            -89.702945,
+            41.770487,
+            0
+          ],
+          [
+            -89.702508,
+            41.770487,
+            0
+          ],
+          [
+            -89.702469,
+            41.770454,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152200",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 147.63\nAttr ID: DU-0152200\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 20194a88-416e-4efc-9d8e-647b24e77a3a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.701336,
+            41.769511,
+            0
+          ],
+          [
+            -89.701316,
+            41.769511,
+            0
+          ],
+          [
+            -89.701,
+            41.769409,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152210",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 99.33\nAttr ID: DU-0152210\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: f7bdbed3-67ad-42ec-b146-cd2206638c05",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.698679,
+            41.76939,
+            0
+          ],
+          [
+            -89.698668,
+            41.769409,
+            0
+          ],
+          [
+            -89.698672,
+            41.769681,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152220",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 106.67\nAttr ID: DU-0152220\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 9cc155e4-f168-4339-bfc9-96ec0b0b7e9d",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697385,
+            41.770359,
+            0
+          ],
+          [
+            -89.697385,
+            41.770347,
+            0
+          ],
+          [
+            -89.697417,
+            41.770189,
+            0
+          ],
+          [
+            -89.697889,
+            41.770186,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152230",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 191.37\nAttr ID: DU-0152230\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 50d81cf9-2309-4bec-9188-9cabefc232d1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697385,
+            41.770359,
+            0
+          ],
+          [
+            -89.697376,
+            41.770345,
+            0
+          ],
+          [
+            -89.697397,
+            41.770185,
+            0
+          ],
+          [
+            -89.697408,
+            41.770034,
+            0
+          ],
+          [
+            -89.697434,
+            41.769926,
+            0
+          ],
+          [
+            -89.697445,
+            41.769874,
+            0
+          ],
+          [
+            -89.697489,
+            41.769766,
+            0
+          ],
+          [
+            -89.697682,
+            41.769652,
+            0
+          ],
+          [
+            -89.697715,
+            41.769652,
+            0
+          ],
+          [
+            -89.697726,
+            41.769097,
+            0
+          ],
+          [
+            -89.697744,
+            41.768712,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152240",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 638.38\nAttr ID: DU-0152240\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ca01887c-3450-4ffb-9b93-541274dfa794",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.697726,
+            41.769097,
+            0
+          ],
+          [
+            -89.697514,
+            41.769095,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152250",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 57.84\nAttr ID: DU-0152250\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 278cd00d-cc7b-4a96-8538-4ef834543b17",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675356,
+            41.762784,
+            0
+          ],
+          [
+            -89.675042,
+            41.76274,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152260",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 87.16\nAttr ID: DU-0152260\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: f61e84bd-358c-4e13-a1b9-665752cd7709",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675252,
+            41.764325,
+            0
+          ],
+          [
+            -89.675265,
+            41.764314,
+            0
+          ],
+          [
+            -89.676438,
+            41.764301,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152270",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 325.41\nAttr ID: DU-0152270\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: d349ec66-bac2-4674-a88c-8daccb4cdeaa",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.676845,
+            41.766193,
+            0
+          ],
+          [
+            -89.678262,
+            41.766189,
+            0
+          ],
+          [
+            -89.678265,
+            41.766029,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152280",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 444.89\nAttr ID: DU-0152280\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 01fe1e94-549f-4e89-b1bf-4c13b38878a1",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.670605,
+            41.766222,
+            0
+          ],
+          [
+            -89.67061,
+            41.766055,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152300",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 60.87\nAttr ID: DU-0152300\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 496384e3-81f7-4e94-8047-93d64159087b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.674951,
+            41.767813,
+            0
+          ],
+          [
+            -89.67495,
+            41.768355,
+            0
+          ],
+          [
+            -89.674965,
+            41.769288,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152310",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 537.51\nAttr ID: DU-0152310\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 80a99be8-1201-4d9c-b245-854a61915912",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.676139,
+            41.77047,
+            0
+          ],
+          [
+            -89.676123,
+            41.770465,
+            0
+          ],
+          [
+            -89.675032,
+            41.770441,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152320",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 302.48\nAttr ID: DU-0152320\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 50a96994-6081-482c-bab0-b8db70fda2a3",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.676139,
+            41.77047,
+            0
+          ],
+          [
+            -89.67614,
+            41.770457,
+            0
+          ],
+          [
+            -89.676297,
+            41.770281,
+            0
+          ],
+          [
+            -89.676311,
+            41.770277,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152330",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 85.95\nAttr ID: DU-0152330\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 05b2ef6c-75ba-43dd-a5d9-53e9ff8509e0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.679481,
+            41.770353,
+            0
+          ],
+          [
+            -89.679178,
+            41.770289,
+            0
+          ],
+          [
+            -89.678415,
+            41.77027,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152340",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 294.14\nAttr ID: DU-0152340\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 89740194-5c2b-4ae3-8a07-9aa517b3c5e6",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690142,
+            41.766538,
+            0
+          ],
+          [
+            -89.690822,
+            41.766549,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152350",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 185.56\nAttr ID: DU-0152350\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 71be895c-f62d-43df-91a3-b314f17b5bfa",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.68868,
+            41.768486,
+            0
+          ],
+          [
+            -89.688019,
+            41.768489,
+            0
+          ],
+          [
+            -89.688012,
+            41.76999,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152360",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 727.29\nAttr ID: DU-0152360\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 4965a9c4-0000-4241-adc9-13d004adf4d0",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688019,
+            41.768489,
+            0
+          ],
+          [
+            -89.688002,
+            41.768518,
+            0
+          ],
+          [
+            -89.688002,
+            41.768921,
+            0
+          ],
+          [
+            -89.687994,
+            41.769244,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152370",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 276.11\nAttr ID: DU-0152370\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 833846ac-32ee-44ce-97b6-48ea8ed545ff",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688019,
+            41.768489,
+            0
+          ],
+          [
+            -89.688024,
+            41.768337,
+            0
+          ],
+          [
+            -89.68805,
+            41.767661,
+            0
+          ],
+          [
+            -89.688019,
+            41.767285,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152380",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 439.12\nAttr ID: DU-0152380\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 4c350225-9a27-41b0-aeee-fdf4f2c233ab",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.688042,
+            41.770971,
+            0
+          ],
+          [
+            -89.688022,
+            41.770891,
+            0
+          ],
+          [
+            -89.688012,
+            41.76999,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152390",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 370.42\nAttr ID: DU-0152390\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: fe15b712-790a-47c3-93c4-5580a1ed5623",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.688112,
+            41.771016,
+            0
+          ],
+          [
+            -89.688222,
+            41.771021,
+            0
+          ],
+          [
+            -89.688221,
+            41.771301,
+            0
+          ],
+          [
+            -89.68823,
+            41.771334,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152400",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 158.2\nAttr ID: DU-0152400\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ed1a953f-21f9-4e2e-8b88-d1e600a29857",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688051,
+            41.773118,
+            0
+          ],
+          [
+            -89.688254,
+            41.773128,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152410",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 55.49\nAttr ID: DU-0152410\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 34ca3092-dd33-4e0c-a5c0-d71147b293fc",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688018,
+            41.775969,
+            0
+          ],
+          [
+            -89.688232,
+            41.775968,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152420",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 58.37\nAttr ID: DU-0152420\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 7406f226-f902-4ebb-ac35-429df6bb8120",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688027,
+            41.776412,
+            0
+          ],
+          [
+            -89.68876,
+            41.776418,
+            0
+          ],
+          [
+            -89.689293,
+            41.776413,
+            0
+          ],
+          [
+            -89.689323,
+            41.776394,
+            0
+          ],
+          [
+            -89.689319,
+            41.776008,
+            0
+          ],
+          [
+            -89.689316,
+            41.775908,
+            0
+          ],
+          [
+            -89.689316,
+            41.775576,
+            0
+          ],
+          [
+            -89.68931,
+            41.775476,
+            0
+          ],
+          [
+            -89.689296,
+            41.774967,
+            0
+          ],
+          [
+            -89.689267,
+            41.773887,
+            0
+          ],
+          [
+            -89.689234,
+            41.773619,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152430",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1367.86\nAttr ID: DU-0152430\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 41d0de45-79da-42c3-870d-830ec3972834",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689434,
+            41.780532,
+            0
+          ],
+          [
+            -89.689416,
+            41.780522,
+            0
+          ],
+          [
+            -89.689218,
+            41.780258,
+            0
+          ],
+          [
+            -89.688735,
+            41.779767,
+            0
+          ],
+          [
+            -89.688711,
+            41.779388,
+            0
+          ],
+          [
+            -89.688706,
+            41.778909,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ],
+          [
+            -89.687448,
+            41.778888,
+            0
+          ],
+          [
+            -89.687457,
+            41.777973,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152440",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 1331.91\nAttr ID: DU-0152440\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: ba02c470-a4b9-4767-bdbd-29f00e67f8b6",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.687457,
+            41.777973,
+            0
+          ],
+          [
+            -89.687449,
+            41.777989,
+            0
+          ],
+          [
+            -89.687443,
+            41.778597,
+            0
+          ],
+          [
+            -89.687433,
+            41.778889,
+            0
+          ],
+          [
+            -89.687444,
+            41.778894,
+            0
+          ],
+          [
+            -89.688671,
+            41.778892,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152450",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 676.16\nAttr ID: DU-0152450\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 6baa20f3-1517-44a8-b603-30e2943b2566",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689434,
+            41.780532,
+            0
+          ],
+          [
+            -89.68923,
+            41.780252,
+            0
+          ],
+          [
+            -89.688746,
+            41.779764,
+            0
+          ],
+          [
+            -89.688722,
+            41.779398,
+            0
+          ],
+          [
+            -89.688714,
+            41.778901,
+            0
+          ],
+          [
+            -89.688683,
+            41.778887,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152460",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 662.22\nAttr ID: DU-0152460\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: cdfc2353-9796-4f51-af0c-ac5a6749a2a7",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.69563,
+            41.767631,
+            0
+          ],
+          [
+            -89.693438,
+            41.766878,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152500",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 657.94\nAttr ID: DU-0152500\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 611bf3c9-787e-4d01-aeb8-5cef2907b8af",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.725078,
+            41.772551,
+            0
+          ],
+          [
+            -89.723201,
+            41.772537,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152510",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 512.04\nAttr ID: DU-0152510\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 76559dd3-3ea8-41bb-8c64-b4bc9788e2f9",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.690142,
+            41.766538,
+            0
+          ],
+          [
+            -89.689584,
+            41.766536,
+            0
+          ],
+          [
+            -89.689587,
+            41.766355,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152520",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Duct Configuration: 1\nName: Duct\nTotal Length: 218.19\nAttr ID: DU-0152520\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 4f028d0b-1c65-43ff-8574-f894bfd41851",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.725063,
+            41.772311,
+            0
+          ],
+          [
+            -89.727952,
+            41.772308,
+            0
+          ],
+          [
+            -89.728019,
+            41.772284,
+            0
+          ],
+          [
+            -89.728249,
+            41.772282,
+            0
+          ],
+          [
+            -89.728335,
+            41.772312,
+            0
+          ],
+          [
+            -89.730368,
+            41.77229,
+            0
+          ],
+          [
+            -89.730433,
+            41.772263,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152560",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 1471.88\nAttr ID: DU-0152560\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 2a29ce54-9947-4d01-bd4f-4cbb86a8af16",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.711209,
+            41.771898,
+            0
+          ],
+          [
+            -89.711874,
+            41.771993,
+            0
+          ],
+          [
+            -89.712669,
+            41.772084,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152590",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 404.07\nAttr ID: DU-0152590\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 6b2ea185-fb9b-43ac-9c61-8a4a402bfc2b",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.708786,
+            41.771732,
+            0
+          ],
+          [
+            -89.708798,
+            41.77171,
+            0
+          ],
+          [
+            -89.708813,
+            41.771486,
+            0
+          ],
+          [
+            -89.708807,
+            41.771464,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152610",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 98.57\nAttr ID: DU-0152610\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: a2b8bba7-dc2a-425f-9c3b-804dc302f48a",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.675875,
+            41.766001,
+            0
+          ],
+          [
+            -89.675837,
+            41.766196,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152650",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 71.81\nAttr ID: DU-0152650\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: f72079d9-3473-425f-b4bc-7b251b13f4b9",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.688066,
+            41.771,
+            0
+          ],
+          [
+            -89.687419,
+            41.771006,
+            0
+          ],
+          [
+            -89.687437,
+            41.771604,
+            0
+          ],
+          [
+            -89.687431,
+            41.772156,
+            0
+          ],
+          [
+            -89.687437,
+            41.772448,
+            0
+          ],
+          [
+            -89.687747,
+            41.772445,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152660",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 786.62\nAttr ID: DU-0152660\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: a8b75a31-3c1b-413b-b4e1-31c0ee31a924",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.689595,
+            41.781737,
+            0
+          ],
+          [
+            -89.68951,
+            41.781715,
+            0
+          ],
+          [
+            -89.688719,
+            41.782119,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DU-0152830",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "17fc878c",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        },
+        "description": "Name: Duct\nDuct Configuration: 1\nTotal Length: 285.72\nAttr ID: DU-0152830\nOuter Diameter: \nInner Diameter: \nMaterial Type: \nOwner: \nNote: \nDepth: \nWidth: \nInput Length: \nproject_name: Illinois - Final\nplan_name: Rock Falls\nvetro_id: 3626d0e5-6eac-4b1c-b665-202d32fbca29",
+        "stroke": "#ff5500",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      }
+    }
+  ]
+}
