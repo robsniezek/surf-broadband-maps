@@ -1,0 +1,21 @@
+    1  ls -al ~/.ssh
+    2  ls -al ~/.ssh
+    3  ssh-keygen -t ed25519 -C "robertsniezek@gmail.com"
+    4  clip <~/.ssh/id_ed25519.pub
+    5  git remote -v
+    6  dir
+    7  cd Documents/
+    8  dir
+    9  cd ..
+   10  dir
+   11  cd OneDrive
+   12  dir
+   13  cd Programming/
+   14  cd ..
+   15  dir
+   16  cd C:\Users\rober\OneDrive\Documents\Programming\Surf Broadband Maps
+   17  cd Documents/
+   18  cd Programming/
+   19  cd Surf\ Broadband\ Maps/
+   20  git remote set-url origin git@github.com:robsniezek/surf-broadband-maps.git
+   22  history > historyGitBash.txt

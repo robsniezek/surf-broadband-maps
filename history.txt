@@ -1,0 +1,35 @@
+del /F /S /Q /A .git
+rmdir .git
+git init
+git add .
+# git rm --cached
+git rm --cached
+git rm --cached /node-modules
+git add .
+git commit -am "first commit"
+git remote add origin https:/github.com/robsniezek/surf-broadband-maps
+git push -u origin master
+git remote add origin https://github.com/robsniezek/surf-broadband-maps
+git push -u origin master
+echo "# surf-broadband-maps" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:robsniezek/surf-broadband-maps.git
+git push -u origin main
+git@github.com:robsniezek/surf-broadband-maps.git
+git config --global robsniezek
+git config --global robsniezek "Rob"
+git remote add origin git@github.com:robsniezek/surf-broadband-maps.git
+git push -u origin main
+npm install
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git set-url git@github.com:robsniezek/surf-broadband-maps.git
+git remote set-url git@github.com:robsniezek/surf-broadband-maps.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+doskey /HISTORY > history.txt
