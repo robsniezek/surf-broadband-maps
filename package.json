@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "script": "node src/scripts.js"
+    "script": "node src/scripts.js \"CBSSurf Broadband 11242020.kml\""
   },
   "repository": {
     "type": "git",

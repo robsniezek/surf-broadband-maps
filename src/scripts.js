@@ -3,7 +3,9 @@ const fs = require('fs');
 const tj = require('@mapbox/togeojson')
 const DOMParser = require('xmldom').DOMParser;
 
-const xmlContent = fs.readFileSync(path.join(__dirname,'./kml/CBSSurf Broadband 11242020.kml'), {encoding: 'utf8'});
+console.log(process.argv);
+
+const xmlContent = fs.readFileSync(path.join(__dirname,'./kml/' + process.argv[2]), {encoding: 'utf8'});
 const kml = new DOMParser().parseFromString(xmlContent);
 const kmlJSON = tj.kml(kml);
 console.log(Object.keys(kmlJSON));
