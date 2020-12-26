@@ -1,5 +1,12 @@
 const path = require('path');
 const fs = require('fs');
+const tj = require('@mapbox/togeojson')
+const DOMParser = require('xmldom').DOMParser;
+
+const xmlContent = fs.readFileSync(path.join(__dirname,'./kml/CBSSurf Broadband 11242020.kml'), {encoding: 'utf8'});
+const kml = new DOMParser().parseFromString(xmlContent);
+const kmlJSON = tj.kml(kml);
+console.log(Object.keys(kmlJSON));
 
 const content = fs.readFileSync(path.join(__dirname,'./geojson/surfExisting/Accounts Today.geojson'), {encoding: 'utf8'});
 const json = JSON.parse(content);

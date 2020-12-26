@@ -16,5 +16,9 @@
     "url": "https://github.com/robsniezek/surf-broadband-maps/issues"
   },
   "homepage": "https://github.com/robsniezek/surf-broadband-maps#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "fast-xml-parser": "^3.17.5"
+  }
 }
